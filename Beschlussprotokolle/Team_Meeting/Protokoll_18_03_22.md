@@ -35,4 +35,4 @@ VM geht
 Keine
 
 # Beschluss 
-
+Raphael Sucht meeting Point für das nächste Meeting
