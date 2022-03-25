@@ -20,15 +20,14 @@ Die Tasks wurden fair und unter Einbezug der Vorkentnisse aufgeteilt. Somit ware
 ## Gab es ”Leerläufe“ oder Wartezeiten aufgrund der Abhängigkeiten zwischen den Tasks?
 Bisher gab es keine Abhänigkeiten zwischen den individuellen Tasks womit es auch zu keinen Leerläufen oder Wartezeiten kam.
 ## Wieviel Zeit hat jedes Teammitglied investiert für
-  * Implementation von Stories,
-    * 3 Stunden pro Person
-  * Implementation von Testfällen
-    * 4 Stunden pro Person 
-  * Testen
-    * 1 Stunde pro Person 
-  * Einarbeiten in neue Technologien 
-    * 10 Stunden pro Person
-  * Systemadministration
-    * 2 Stunden pro Person   
+
+Teammitglied| Implementation von Stories | Implementation von Testfällen | Einarbeiten in neue Technologien  | Systemadministration (Setup Cryptopus) |
+|-----------|----------------------------|-------------------------------|-----------------------------------|----------------------|
+|Ramona     | 4 Stunden                  | 2 Stunden                     | 8 Stunden                         | 8 Stunden            |
+|Raphael    | 5 Stunden                  | 50 min                        | 9 Stunden                         | 10 Stunden           |
+|Julien     | 2 Stunden                  | 5 Stunden                     | 5 Stunden                         | 5 Stunden            |
+|Renato     | 1 Stunde                   | 1 Stunde                      | 7 Stunden                         | 10 Stunden           |
+|Dario      | 10 Stunden                 | -                             | 1 Stunde                          | 1 Stunde             |
+
   * Wo ist für die nächste Iteration diesbezüglich der grösste Aufwand zu erwarten? 
-    * Zeit zur Einarbeitung in neue Technologien sollte reduziert werden und dafür die Zeit zur Implementation von Stories und Testfällen etwas zunehmen.
+    * Zeit zur Einarbeitung in neue Technologien und Systemaministration sollte reduziert werden und dafür die Zeit zur Implementation von Stories und Testfällen etwas zunehmen.
