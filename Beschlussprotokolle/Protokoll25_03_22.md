@@ -9,7 +9,7 @@ PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*,
 #### Beschlussprotokoll: 
 - Ausführlicher
 - Aufwandschätzung reinnehmen
-- Wann s nächste Meeting
+- Wann das nächste Meeting ist 
 - Noch Issues rein stellen
 
 #### Action Points: 
@@ -34,5 +34,8 @@ PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*,
 
 # Beschluss 
 Protokollist: Raphael 
+
 Deliverables alle zusammen jetzt überarbeiten 
+
+Meetings immer Freitags ab 14 Uhr
 
