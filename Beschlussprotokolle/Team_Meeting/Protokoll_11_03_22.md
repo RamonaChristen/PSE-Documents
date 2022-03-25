@@ -1,4 +1,4 @@
-# Protokoll 25.03.2022
+# Protokoll 11_03_2022
 ## Anwesend 
 Assistent: Dominik Fischli
 
@@ -19,16 +19,22 @@ Beschluss
 
 # Status
 ![Status](https://img.shields.io/badge/Ramona_Christen-Status-green)
+
 ![Status](https://img.shields.io/badge/Dario_Marti-Status-green)
+
 ![Status](https://img.shields.io/badge/Renat_Oester-Status-red)
+
 ![Status](https://img.shields.io/badge/Julien_Gaumez-Status-orange)
+
 ![Status](https://img.shields.io/badge/Raphael_Fehr-Status-red)
 
 # Varia 
-Keine
+
 
 # Beschluss 
 Protokollist: Raphael 
+
+Doodle für Meeting: Raphael 
 
 Deliverables alle zusammen jetzt überarbeiten 
 
