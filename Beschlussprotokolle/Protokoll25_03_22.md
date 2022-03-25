@@ -1,6 +1,7 @@
 # Protokoll 
 ## Anwesend 
 Assistent: Dominik Fischli
+
 PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*, Ramona Christen
 
 # Feedback Assistent
