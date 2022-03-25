@@ -35,6 +35,9 @@ Beschluss
 - Gut, darf noch bisschen ausführlicher
 - Schwierig zu verstehen, sehr vage 
 
+#### Vorträge 
+- Denkt daran das Team zu sagen 
+
 # Status
 ![Status](https://img.shields.io/badge/Ramona_Christen-Status-green)
 Alles i.o. Ein Issue schon abgeschlossen
