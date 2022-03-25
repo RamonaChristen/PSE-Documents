@@ -31,3 +31,8 @@ PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*,
 ![Status](https://img.shields.io/badge/Renat_Oester-Status-green)
 ![Status](https://img.shields.io/badge/Julien_Gaumez-Status-green)
 ![Status](https://img.shields.io/badge/Raphael_Fehr-Status-green)
+
+# Beschluss 
+Protokollist: Raphael 
+Deliverables alle zusammen jetzt überarbeiten 
+
