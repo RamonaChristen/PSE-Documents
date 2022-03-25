@@ -4,6 +4,16 @@ Assistent: Dominik Fischli
 
 PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*, Ramona Christen
 
+# Traktanden
+
+Feedback 
+
+Status
+
+Varia 
+
+Beschluss
+
 # Feedback Assistent
 
 #### Beschlussprotokoll: 
@@ -19,7 +29,7 @@ PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*,
 - Protokoll genauer, und Beschlussprotokoll unten  
 
 #### Kundenmeeting: 
-- Start, stop, continu ergänzen 
+- Start, stop, continue ergänzen 
 
 #### Risiko Analyse: 
 - Gut, darf noch bisschen ausführlicher
@@ -31,6 +41,9 @@ PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*,
 ![Status](https://img.shields.io/badge/Renat_Oester-Status-green)
 ![Status](https://img.shields.io/badge/Julien_Gaumez-Status-green)
 ![Status](https://img.shields.io/badge/Raphael_Fehr-Status-green)
+
+# Varia 
+Keine
 
 # Beschluss 
 Protokollist: Raphael 
