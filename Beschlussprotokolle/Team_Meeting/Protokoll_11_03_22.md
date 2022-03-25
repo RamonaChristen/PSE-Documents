@@ -37,11 +37,8 @@ Funktioniert nicht wechel auf VM
 
 
 # Beschluss 
-Protokollist: Raphael 
 
-Doodle für Meeting: Raphael 
-
-Deliverables alle zusammen jetzt überarbeiten 
+Issues aufgeteilt im ZenHub
 
 Meetings immer Freitags ab 14 Uhr
 
