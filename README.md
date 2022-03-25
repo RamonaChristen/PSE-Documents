@@ -1,5 +1,5 @@
 # PSE-Documents
-Document Repository for PSE 2022
+Dies ist das Document Repository der Puzzle_PSE_Gruppe 2022
 
 ## Rollenverteilung
 ![Sprache](https://img.shields.io/badge/Raphael-Key_Account_manager-blue)
