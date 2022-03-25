@@ -1,6 +1,6 @@
-## Testkonzept von Cryptopus
+# Testkonzept von Cryptopus
 
-# Ablauf
+## Ablauf
 
 - Unit tests implementieren
 - end-to-end tests lokal mit rake ausführen
