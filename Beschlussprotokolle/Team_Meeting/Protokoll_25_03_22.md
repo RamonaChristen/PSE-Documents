@@ -53,7 +53,7 @@ Presentation gemacht, und noch den Button verschönern.
 Abwesenheits Meldung für Sitzung 29.04.2022 und 06.05.2022 Raphael
 
 # Varia 
-Keine
+Vorträge im Vorraus noch anschauen? falls ja kann man das machen. 
 
 # Beschluss 
 Protokollist: Raphael 
