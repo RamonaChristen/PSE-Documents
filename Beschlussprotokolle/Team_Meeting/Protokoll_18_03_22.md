@@ -29,7 +29,3 @@ Keine
 
 # Beschluss 
 
-Deliverables alle zusammen jetzt überarbeiten 
-
-Meetings immer Freitags ab 14 Uhr
-
