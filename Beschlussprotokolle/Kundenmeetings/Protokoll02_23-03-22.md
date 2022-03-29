@@ -29,13 +29,6 @@ PSE: Dominik Fischli, Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (P
   * Online Meeting Möglichkeiten
   * Zu zweit an einem Issue arbeiten.
  
-Action points aus 1. Iteration
-* Pull Requests früher & richtig assignen
-* Pair Programming (mit Puzzle sowie Team intern)
-* Weiter mit der guten Kommunikation
-* Weiterhin toller Code
-* Weiterhin in Person & zusammen arbeiten
-
 ## Planning Iteration 2
 Aus 1. Iteration:
 * TECH: Upgrade to Ruby 3.0, Rails 7.0 needs to be reviewed -> 2 SP
