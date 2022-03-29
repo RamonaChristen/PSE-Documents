@@ -48,3 +48,11 @@ Neue Tickets:
 * #568 LOG: Personal activity log -> 8 SP
 * #572 LOG: Recent credentials on dashboard -> 5 SP\
 * [Vergleiche Arbeitsplan](https://github.com/RamonaChristen/PSE-Documents/blob/main/Arbeitsplan.md)
+
+
+## Action points
+* Pull Requests früher & richtig assignen
+* Pair Programming (mit Puzzle sowie Team intern)
+* Weiter mit der guten Kommunikation
+* Weiterhin toller Code
+* Weiterhin in Person & zusammen arbeiten
