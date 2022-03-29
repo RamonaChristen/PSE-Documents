@@ -14,4 +14,4 @@ Allgemeiner Status ![Sprache](https://img.shields.io/badge/Status-OK-green)
 |              | [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | TBD | ![Sprache](https://img.shields.io/badge/Status-OK-green) | 2 | 1 | 1 |              
 |              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | TBD    | ![Sprache](https://img.shields.io/badge/Status-OK-green)  |2 | 1 | 1 |    
 |              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | TBD | ![Sprache](https://img.shields.io/badge/Status-OK-green) |2 | 1 | 1 |    
-|              | Abgaben überarbeiten  | Alle | ![Sprache](https://img.shields.io/badge/Status-DONE-green) |2 | 2 | 0 |  
+|              | Abgaben überarbeiten  | Alle | ![Sprache](https://img.shields.io/badge/Status-DONE-dark_green) |2 | 2 | 0 |  
