@@ -12,4 +12,4 @@ Mitarbeiter von Puzzle verändern den Code laufend, daher ändert sich der Maste
 
 **Eintritswahrscheindlichkeit:**  Gering  
 **Gewichtung:** Hoch    
-**Gegenmassnahmen:** Direkt auf neue Commits im Master-Branch reagieren. 
+**Gegenmassnahmen:** Direkt auf neue Commits im Master-Branch reagieren und im Puzzle Chat aktiv bleiben. 
