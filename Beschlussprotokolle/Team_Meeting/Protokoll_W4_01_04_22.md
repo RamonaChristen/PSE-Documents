@@ -48,8 +48,7 @@ Probleme mit den Spec tests.
 
 
 # Varia 
-Soda Flasche von Renato wurde nicht mitgenommen. 
-Julien merkt an Dario hat das T-Shirt verkehrt an. Dario merkt an, das er vom breitsch ist und man dort ein Hipster ist. 
+Soda Flasche von Renato wurde nicht mitgenommen.  
 
 ## Abschluss Brätle
 Assistent: wird es Wohl nicht geben. 
