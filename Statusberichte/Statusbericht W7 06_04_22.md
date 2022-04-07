@@ -13,7 +13,7 @@ Implementierung der Issue '533 SystemSpec' ist abgeschlossen und review durch Pu
 |              | [#573](https://github.com/puzzle/cryptopus/issues/573)  UI: make toggle button pretty | Julien, Ramona | ![Sprache](https://img.shields.io/badge/Status-DONE-dark_green)| 2 | J 2, RC 1 | 0 |   
 |              | Abgaben überarbeiten  | Alle | ![Sprache](https://img.shields.io/badge/Status-DONE-dark_green) | 2 | 2 | 0 |  
 | 28.7. - 10.4. | [#533](https://github.com/puzzle/cryptopus/issues/533) TECH SystemSpec for folder based actions | Raphael, Renato, Julien |![Sprache](https://img.shields.io/badge/Status-PR-blue) | 5 | RF 3, RO 3, J 2  | 1 |    
-|              | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona | ![Sprache](https://img.shields.io/badge/Status-OK-green) | 13 | D 4, RC 4 | 5 |
+|              | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona | ![Sprache](https://img.shields.io/badge/Status-OK-green) | 13 | D 6, RC 6 | 2 |
 |              | [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | TBD | ![Sprache](https://img.shields.io/badge/Status-OK-green) | 8 | 0 | 8 |              
 |              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | TBD    | ![Sprache](https://img.shields.io/badge/Status-OK-green)  |8 | 0 | 8 |    
 |              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | TBD | ![Sprache](https://img.shields.io/badge/Status-OK-green) |5 | 0 | 5 |    
