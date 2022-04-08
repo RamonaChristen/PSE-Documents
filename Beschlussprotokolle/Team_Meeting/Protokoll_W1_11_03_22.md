@@ -16,13 +16,15 @@ Beschluss
 
 # Feedback Assistent
 
-Schnell durchgehen, und jeder gibt ein feedback
+Der Assistent schlägt vor, das wir in jedem Meeting Schnell durchgehen, und jeder gibt ein feedback wie die Woche war. 
 
 
 # Status
 ![Status](https://img.shields.io/badge/Ramona_Christen-Status-green)
+"Bei mir Läuft es zurzeit gut"
 
 ![Status](https://img.shields.io/badge/Dario_Marti-Status-green)
+"Das aufsetzen ging ohne Probleme"
 
 ![Status](https://img.shields.io/badge/Renat_Oester-Status-red)
 Funktioniert nicht wechel auf VM 
@@ -34,6 +36,7 @@ Funktioniert nicht, wechsel auf VM
 Funktioniert nicht wechel auf VM 
 
 # Varia 
+-Keine
 
 
 # Beschluss 
