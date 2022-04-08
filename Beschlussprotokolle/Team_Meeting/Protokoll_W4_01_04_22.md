@@ -15,12 +15,12 @@ Varia
 Beschluss
 
 # Feedback Assistent
-##Arbeitsplan 
+## Arbeitsplan 
 Es gibt Tasks die in Progress sind aber die Woche ist schon durch. Statusbericht mit einem weiteren faktor, in progress.
-##Risiko
+## Risiko
 Mehr Risikos und ihr dürfen auch extern Risikos reinnehmen.
 
-###Einschub Präsentation Raphael Demo. 
+### Einschub Präsentation Raphael Demo. 
 Würde Raphael übernehmen. Da es ja lediglich drum ginge die Software zu zeigen. Auch wenn wir noch nicht viel im Frontend gemacht haben. 
 
 
