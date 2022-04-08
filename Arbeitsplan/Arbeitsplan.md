@@ -11,6 +11,6 @@
 |              | [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | TBD | TO DO || 12.4.2022| 
 |              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | TBD    | TO DO  | | 12.4.2022|
 |              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | TBD | TO DO | | 12.4.2022|
-| 4.4. - 10.4. |Präsentation: Demo | Raphael | TO DO | | 6.4.2022|
+| 4.4. - 10.4. |Präsentation: Demo | Raphael | Done | | 6.4.2022|
 |              | Continue working on unfinished tasks 
 | 11.4. - 17.4.|  <b>Ende Iteration 2 </b>           |           |
