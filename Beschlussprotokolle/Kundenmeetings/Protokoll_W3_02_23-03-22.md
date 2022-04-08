@@ -30,9 +30,9 @@ PSE: Dominik Fischli, Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (P
   * Zu zweit an einem Issue arbeiten.
  
 ## Planning Iteration 2
-Aus 1. Iteration:
+### Aus 1. Iteration:
 * TECH: Upgrade to Ruby 3.0, Rails 7.0 needs to be reviewed -> 2 SP
-Neue Tickets:
+### Neue Tickets:
 * #538 Arrow in Folder Navigation wrong direction -> 3 SP
 * #573 UI: make toggle button pretty -> 2 SP
 * #533 TECH: SystemSpec for folder based actions -> 5 SP
