@@ -15,24 +15,27 @@ Varia
 Beschluss
 
 # Feedback Assistent
-Weiter so Läuft gut 
+Zurzeit keine direkten Feedbacks, es Läuft gut.
 
 
 # Status
 ![Status](https://img.shields.io/badge/Ramona_Christen-Status-green)
+" Bis jetzt funktioniert immer noch alles Reibungslos"
 
 ![Status](https://img.shields.io/badge/Dario_Marti-Status-green)
+" Immer noch keine Probleme
 
 ![Status](https://img.shields.io/badge/Renat_Oester-Status-green)
+"Problem bestehen immer noch auf Windows. Umstieg auf VM"
 
 ![Status](https://img.shields.io/badge/Julien_Gaumez-Status-green)
-VM geht nicht, Windows geht
+"VM geht nicht, Windows geht"
 
 ![Status](https://img.shields.io/badge/Raphael_Fehr-Status-green)
-VM geht 
+"VM geht"
 
 # Varia 
 Keine
 
 # Beschluss 
-Raphael Sucht meeting Point für das nächste Meeting
+Raphael Sucht meeting Point für das nächste Meeting und gibt dieses Per Chat bekannt
