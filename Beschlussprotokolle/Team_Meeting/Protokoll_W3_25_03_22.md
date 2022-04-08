@@ -17,30 +17,31 @@ Beschluss
 # Feedback Assistent
 
 #### Beschlussprotokoll: 
-- Ausführlicher
-- Aufwandschätzung reinnehmen
-- Wann das nächste Meeting ist 
-- Noch Issues rein stellen
+- Achtet darauf das ihr ausführlicher seid in den Beschlussprotokollen seid. 
+- Denkt daran die Aufwandschätzung reinzunehmen.
+- Schreibt bitte rein, wann das nächste Meeting ist.
+- NÜberlegt euch noch wie ir Die Issues rein stellen könnt.
 
 #### Action Points: 
-- Gut weiter so
+- Die Action Poibts funktionieren gut. 
 
 #### Protokoll: 
-- Protokoll genauer, und Beschlussprotokoll unten  
+- Schreibt auch das Protokoll noch genauer, und achtet drauf, dass das Beschlussprotokoll unten steht.
 
 #### Kundenmeeting: 
-- Start, stop, continue ergänzen 
+- Ergänzt noch das mit dem Start, stop, continue.
 
 #### Risiko Analyse: 
-- Gut, darf noch bisschen ausführlicher
-- Schwierig zu verstehen, sehr vage 
+- Gut, auch hier darf es noch bisschen ausführlicher
+- Manchmal einwenig schwierig zu verstehen und vage. Achtet da drauf das es genauer wird. 
+- Ein Risikoanalyse reicht zwar aber schaut das ihr evtl. noch wietere findet.
 
 #### Vorträge 
-- Denkt daran das Team zu sagen 
+- Denkt daran das Team zu sagen am Anfang vom Vortrag. Dies hilft den Assistenten und dem Proffessor euch einzuordnen.
 
 # Status
 ![Status](https://img.shields.io/badge/Ramona_Christen-Status-green)
-Alles i.o. Ein Issue schon abgeschlossen
+Alles i.o. Ein Issue schon abgeschlossen.
 
 ![Status](https://img.shields.io/badge/Dario_Marti-Status-green)
 Wartet auf bestätigung für Issue Upgrade (Risiko ablehnung) 
