@@ -6,13 +6,13 @@ PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*,
 
 # Traktanden
 
-## Feedback 
+##### Feedback 
 
-## Status
+##### Status
 
-## Varia 
+##### Varia 
 
-## Beschluss
+##### Beschluss
 
 # Feedback Assistent
 Donnerstags Abend Abgaben abgeben.
@@ -78,7 +78,8 @@ Allgemein:
 
 # Varia 
 Soda Flasche von Renato wurde nicht mitgenommen.  
-nächster Vortrag: 
+nächster Vortrag: Architektut und Technologie
+Unterschiede zeigen, auch das Model View Konzept ansprechen. Achte auf das Handbuch. Kommunikation mit Swissblablabla(dem anderen Team) 
 
 
 
