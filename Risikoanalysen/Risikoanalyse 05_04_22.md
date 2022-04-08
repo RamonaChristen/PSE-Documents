@@ -1,15 +1,15 @@
 # Risikoanalyse - Woche 7 05.04.2022
 
 ## Abhängigkeit der verbleibenden Tasks
-Bei den noch verbleibenden Tasks, können Abhängigkeiten entstehen. Dies würde unser Tempo einschränken, da wir dann die Tasks nicht wie geplant aufteilen und gleichzeitig erledigen können. Es ist also wichtig die Priorität auf die Tasks, von welchen andere Tasks abhängen, zu setzten und diese schnellst möglich zu erledigen. Ansonsten können wir diese Tasks auch mit Pair-Programming implementieren, damit alle etwas machen können und wir die Tasks schneller fertiggestellt werden.
+Wir haben noch vier Tasks offen, welche sich auf das Log feature beziehen. Diese sind voneinander abhängig. Abhängigkeiten sind ein Risiko. Deshalb müssen wir die Priorität auf die Tasks legen, von welchen andere Tasks abhängen. Dazu können wir diese Tasks z.B. auch mit Pair-Programming implementieren, damit alle etwas machen können und wir die Tasks schneller fertiggestellt werden.
 
-**Eintritswahrscheindlichkeit:**  Hoch
+**Eintritswahrscheindlichkeit:**  Hoch  
 **Gewichtung:** Tief    
 **Gegenmassnahmen:** Priorität der Tasks anpassen, Pair-Programming anwenden
 
 ## Personenausfälle
-Es besteht jederzeit die Möglichkeit, dass jemand aus der Gruppe für eine Weile ausfällt. Dies kann aus verschiedenen Gründen vorkommen. Als Präventivmassnahme wäre es gut ein Zeitpolster zu haben. Als aktive Gegenmassnahme dient, die Möglichkeit online in Meetings teilzunehmen und unsere anderen Online-Kommunikationskanäle zu benutzen.
+Es besteht jederzeit die Möglichkeit, dass jemand aus der Gruppe für eine Weile ausfällt. Dies kann aus verschiedenen Gründen vorkommen. Als Präventivmassnahme kann man ein Zeitpolster einplanen. Als aktive Gegenmassnahme sollte man Puzzle kontaktieren.
 
 **Eintritswahrscheindlichkeit:**  Gering  
-**Gewichtung:** Gering
-**Gegenmassnahmen:** Möglichkeit Meetings online beizutreten,
+**Gewichtung:** Gering  
+**Gegenmassnahmen:** Puzzle kontaktieren
