@@ -15,11 +15,13 @@ Varia
 Beschluss
 
 # Feedback Assistent
-Arbeitsplan, es gibt Tasks die in Progress sind aber die Woche ist schon durch. 
-Statusbericht, anpassen das in Progress
-Risiko, mehr Risikos und dürfen auch extern 
+##Arbeitsplan 
+Es gibt Tasks die in Progress sind aber die Woche ist schon durch. Statusbericht mit einem weiteren faktor, in progress.
+##Risiko
+Mehr Risikos und ihr dürfen auch extern Risikos reinnehmen.
 
-Einschub Präsentation Raphael Demo. 
+###Einschub Präsentation Raphael Demo. 
+Würde Raphael übernehmen. Da es ja lediglich drum ginge die Software zu zeigen. Auch wenn wir noch nicht viel im Frontend gemacht haben. 
 
 
 
@@ -52,15 +54,15 @@ Alles i.O.
 Soda Flasche von Renato wurde nicht mitgenommen.  
 
 ## Abschluss Brätle
-Assistent: wird es Wohl nicht geben. 
-Puzzle: würde trotzdem ein Brätlen machen. 
+Assistent: Zu seinem jetzigen Wissensstand ist dies nicht geplant. Klärt es aber noch ab.
+Puzzle: Würde trotzdem ein Bräteln machen, falls es kein Bräteln vom PSE aus geben würde.
 
 
 # Beschluss 
+## Präsentation 
 Demo: Raphael 
 Architektur: Renato 
 Test: Dario 
 
 Sitzung beendet 
-
 
