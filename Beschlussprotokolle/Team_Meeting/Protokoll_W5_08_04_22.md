@@ -64,7 +64,7 @@ Dies hat noch ein Formatierungs im Kunden meeting unter dem header Iteration 2.
 
 
 ![Status](https://img.shields.io/badge/Julien_Gaumez-Status-orange)
-" àhnlich wie bei Rapheal. habe auch noch ein wenig Code cleaning gemacht. 
+" ähnlich wie bei Rapheal. habe auch noch ein wenig Code cleaning gemacht. 
 
 
 ![Status](https://img.shields.io/badge/Raphael_Fehr-Status-orange)
@@ -84,8 +84,14 @@ Unterschiede zeigen, auch das Model View Konzept ansprechen. Achte auf das Handb
 
 
 
+
+
 # Beschluss 
 
 Donnerstags Abend Abgaben abgeben. Sprich Mittwoch ready haben. 
+12.04.2022 Dienstag: Kunden Meeting um 14:00 
+13.04.2022 Mittwoch: Team Meeting 
+Demo 2 würde Raphael Fehr übernehmen 
+
 
 
