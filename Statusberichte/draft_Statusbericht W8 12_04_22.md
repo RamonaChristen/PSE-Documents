@@ -6,10 +6,10 @@ Sprint 2
 | Tasks       | Asignee   | Status | Geschätzt*  | Bis jetzt*  | Noch zu machen* |
 | ----------- | -------   | -------| -----------|----------- | ------|
 | [#533](https://github.com/puzzle/cryptopus/issues/533) TECH SystemSpec for folder based actions | Raphael, Renato, Julien |![Status](https://img.shields.io/badge/Status-DONE-dark_green) | 5 | RF 3, RO 3, J 2  | 0 |    
-| [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona | ![Status](https://img.shields.io/badge/Status-OK-green) | 13 | D 6, RC 6 | 8 |
-| [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | TBD | ![Status](https://img.shields.io/badge/Status-OK-green) | 8 | 0 | 8 |              
-| [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | TBD    | ![Status](https://img.shields.io/badge/Status-OK-green)  | 8 | 0 | 8 |    
-| [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | TBD | ![Status](https://img.shields.io/badge/Status-OK-green) | 5 | RO 5 | 5 |    
+| [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona | ![Status](https://img.shields.io/badge/Status-Couldn't_finish-orange) | 13 | D 6, RC 6 | 8 |
+| [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | TBD | ![Status](https://img.shields.io/badge/Status-Failed-red) | 8 | 0 | 8 |              
+| [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Julien, Raphael | ![Status](https://img.shields.io/badge/Status-Couldn't_finish-orange)  | 8 | J 6, RF 6 | 5 |    
+| [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | ![Status](https://img.shields.io/badge/Status-Couldn't_finish-orange) | 5 | RO 5 | 5 |    
 
 
 Sprint 3
