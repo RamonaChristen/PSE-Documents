@@ -107,4 +107,4 @@ Donnerstags Abend Abgaben abgeben. Sprich Mittwoch ready haben.
 
 Demo 2 würde Raphael Fehr übernehmen 
 
-Robin Kontaktieren wegen Verzug. 
+Robin Kontaktieren wegen dem Verzug. 
