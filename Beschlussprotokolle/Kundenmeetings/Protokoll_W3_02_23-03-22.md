@@ -39,7 +39,7 @@ PSE: Dominik Fischli, Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (P
 * #564 LOG: Encryptable read access -> 13 SP
 * #565 LOG: Encryptable log write access / previous values -> 8 SP
 * #568 LOG: Personal activity log -> 8 SP
-* #572 LOG: Recent credentials on dashboard -> 5 SP\
+* #572 LOG: Recent credentials on dashboard -> 5 SP
 * [Vergleiche Arbeitsplan](https://github.com/RamonaChristen/PSE-Documents/blob/main/Arbeitsplan.md)
 
 
