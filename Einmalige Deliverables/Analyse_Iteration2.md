@@ -2,7 +2,7 @@
 ## War der Inhalt der Stories nach dem Planning Game klar?
 Die Stories waren sehr ausführlich dokumentiert. Vor allem bei den verschiedenen [LOG](https://github.com/puzzle-bbt/kon-cryptopus-access-log-history/blob/main/README.md#log-page-minimal-example) Tasks gab es genaue TODO's die genau so abgearbeitet werden konnten.
 ## War der Umfang der Stories zu gross/zu klein?
-Das Ticket _[#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access_ war zu gross. Bereits nach dem Planning war klar, dass es sich dabei um einen eher grossen Task handelt, da dieser mit 13 SP (26 Arbeitstunden) geschätzt wurden. Es stellte sich zudem heraus, dass sogar noch mehr Aufwand benötigt wird um den Task fertig zu stellen.
+Das Ticket _[#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access_ war zu gross. Bereits nach dem Planning war klar, dass es sich dabei um einen eher grossen Task handelt, da dieser mit 13 SP (26 Arbeitstunden) geschätzt wurde. Es stellte sich zudem heraus, dass sogar noch mehr Aufwand benötigt wird um den Task fertig zu stellen.
 Die restlichen Stories wurden auf 3 bis 8 SP (6-16 Stunden) geschätzt und konnten auch in diesem Zeitrahmen erfüllt werden. Somit war die Grösse dieser Tasks angemessen.
 ## War die Aufwandschätzung der Stories realistisch?
 Das Ticket _[#538](https://github.com/puzzle/cryptopus/issues/538) Arrow in Folder Navigation wrong direction_ wurde auf 3 SP (6 Arbeitstunden) geschätzt. Die Umsetzung dauerte allerdings nur knapp eine Arbeitsstunde, da es sich um eine sehr triviale Änderung handelte.
@@ -27,7 +27,7 @@ Teammitglied| Implementation von Stories | Implementation von Testfällen | Eina
 |-----------|----------------------------|-------------------------------|-----------------------------------|----------------------|
 |Ramona     | 18 Stunden                  | 2 Stunden                    |  1 Stunde                         | 1 Stunde           |
 |Raphael    |                             |                              |                                   |           |
-|Julien     |                             |                              |                                   |           |
+|Julien     | 13 Stunden                  | 4 Stunden                    |  1 Stunde                         | 3 Stunden          |
 |Renato     |                             |                              |                                   |           |
 |Dario      |                             |                              |                                   |           |
 
