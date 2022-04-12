@@ -100,7 +100,11 @@ Unterschiede zeigen, evtl. auch das Model View Konzept ansprechen. Achte auf das
 # Beschluss 
 
 Donnerstags Abend Abgaben abgeben. Sprich Mittwoch ready haben. 
+
 12.04.2022 Dienstag: Kunden Meeting um 14:00 
-13.04.2022 Mittwoch: Team Meeting 
+
+13.04.2022 Mittwoch: Team Meeting um 14:00
+
 Demo 2 würde Raphael Fehr übernehmen 
+
 Robin Kontaktieren wegen Verzug. 
