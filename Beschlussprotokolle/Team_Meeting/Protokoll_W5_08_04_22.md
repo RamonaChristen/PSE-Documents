@@ -15,17 +15,18 @@ PSE Team: Dario Marti, Renato Oester, Julien Gaumez, *Raphael Fehr (Protokoll)*,
 ##### Beschluss
 
 # Feedback Assistent
-Donnerstags Abend Abgaben abgeben.
+Schaut, dass ihr die Abgaben bis spätestens Donnerstags Abend abgabe bereit habt.
 
-generell:
-Readme updaten, ist eine gute Idee mit dem Wiki zu arbeiten. 
+Allgemein:
+Readme updaten ist eine gute Idee, achtet das ihr zeitlich auch noch das Wiki updated, wenn ihr darauf verweist. 
 
 Arbeitsplan:
-Unfinished Sachen rausnehmen.
-Spalte Abhängigkeit, zurzeit recht wichtig da zum Beispiel das Log sehr abhängigkeit gibt. 
+Nimmt fertige Schen raus aus dem Arbeitsplan oder markiert sie entsprechend. Das gleiche gilt für nicht angefangene Sachen.
+Schaut das Ihr jenachdem auch noch eine weitere Spalte für die Abhängigkeiten einfügt. Da dies in dieser Iteration wichtig scheint.
 
 Protekoll:
-Bitte datum ergänzen, damit man cirka weiss wann. Anpassung Feedback genauer schreiben. Beschlussprotokoll gut lesbar und ersichtlich macht. 
+Bitte Datum ergänzen, damit man cirka weiss wann das nächste Meeting ist, sprich noch mit dem Datum arbeiten. Beim Feedback, darfst du ruhig ausführlicher deklarieren was erzählt wird. Schau das du auch das Beschlussprotokoll gut lesbar und ersichtlich machst. 
+Beim Kunden Meeting darfst du auch detaillierter werden 
 Kunden Meetings angeben wer was gesagt hat, vorallem für das nächste Meeting.
 
 Bräteln:
