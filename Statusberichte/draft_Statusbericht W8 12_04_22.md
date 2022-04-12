@@ -1,6 +1,6 @@
 # Statusbericht
 ## 13.04.2022
-Allgemeiner Status ![Status](https://github.com/RamonaChristen/PSE-Documents/blob/main/public/images/status_im_verzug.jpg?raw=true)
+Allgemeiner Status ![Status](https://github.com/RamonaChristen/PSE-Documents/blob/main/public/images/status_ok.jpg?raw=true)
 
 Sprint 2
 | Tasks       | Asignee   | Status | Geschätzt*  | Bis jetzt*  | Noch zu machen* |
