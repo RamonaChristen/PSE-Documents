@@ -10,7 +10,7 @@ Sprint 2
 |              | [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | TBD | ![Status](https://img.shields.io/badge/Status-OK-green) | 8 | 0 | 8 |              
 |              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | TBD    | ![Status](https://img.shields.io/badge/Status-OK-green)  | 8 | 0 | 8 |    
 |              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | TBD | ![Status](https://img.shields.io/badge/Status-OK-green) | 5 | RO 5 | 5 |    
-|
+
 
 Sprint 3
 | Woche        | Tasks       | Asignee   | Status | Geschätzt*  | Bis jetzt*  | Noch zu machen* |
