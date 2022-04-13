@@ -25,11 +25,11 @@ baut vollständig auf Ticket /#564 auf und konnte garnicht implementiert werden.
 
 Teammitglied| Implementation von Stories | Implementation von Testfällen | Einarbeiten in neue Technologien  | Systemadministration (Setup Cryptopus) |
 |-----------|----------------------------|-------------------------------|-----------------------------------|----------------------|
-|Ramona     | 18 Stunden                  | 2 Stunden                    |  1 Stunde                         | 1 Stunde           |
-|Raphael    |                             |                              |                                   |           |
-|Julien     | 13 Stunden                  | 4 Stunden                    |  1 Stunde                         | 3 Stunden          |
-|Renato     |                             |                              |                                   |           |
-|Dario      |                             |                              |                                   |           |
+|Ramona     | 18 Stunden                 | 2 Stunden                     |  1 Stunde                         | 1 Stunde             |
+|Raphael    |                            |                               |                                   |                      |
+|Julien     | 13 Stunden                 | 4 Stunden                     |  1 Stunde                         | 3 Stunden            |
+|Renato     | 8 Stunden                  | 6 Stunden                     |  2 Stunden                        | 5 Stunden            |
+|Dario      |                            |                               |                                   |                      |
 
   * Wo ist für die nächste Iteration diesbezüglich der grösste Aufwand zu erwarten? 
     * Der grösste aufwand ist in der Implementation von Stories und Testfällen zu erwarten. Zeit zum Einarbeiten in neue Technologien und Systemadministration sollten nicht vergessen werden aber es ist nicht mehr Aufwand zu erwarten als in dieser Iteration beansprucht wurde.
