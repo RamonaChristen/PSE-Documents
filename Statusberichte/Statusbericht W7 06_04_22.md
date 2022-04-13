@@ -13,9 +13,9 @@ Implementierung der Issue '533 SystemSpec' ist abgeschlossen und review durch Pu
 |              | Abgaben überarbeiten  | Alle | ![Sprache](https://img.shields.io/badge/Status-DONE-dark_green) | 2 | 2 | 0 |  
 |              | [#533](https://github.com/puzzle/cryptopus/issues/533) TECH SystemSpec for folder based actions | Raphael, Renato, Julien |![Sprache](https://img.shields.io/badge/Status-PR-blue) | 5 | RF 3, RO 3, J 2  | 1 |    
 |              | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona | ![Sprache](https://img.shields.io/badge/Status-OK-green) | 13 | D 6, RC 6 | 2 |
-|              | [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | TBD | ![Sprache](https://img.shields.io/badge/Status-OK-green) | 8 | 0 | 8 |              
-|              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | TBD    | ![Sprache](https://img.shields.io/badge/Status-OK-green)  |8 | 0 | 8 |    
-|              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | TBD | ![Sprache](https://img.shields.io/badge/Status-OK-green) |5 | 0 | 5 |    
+|              | [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | TBD | ![Sprache](https://img.shields.io/badge/Status-TBD-yellow) | 8 | 0 | 8 |              
+|              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | TBD    | ![Sprache](https://img.shields.io/badge/Status-TDB-yellow)  |8 | 0 | 8 |    
+|              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | TBD | ![Sprache](https://img.shields.io/badge/Status-TDB-yellow) |5 | 0 | 5 |    
 
 \* Angaben in Storypoints (1 SP = 2 hours)  
 Buchstaben geben die Person an.  
