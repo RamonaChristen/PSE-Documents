@@ -7,7 +7,7 @@ Es besteht die Möglichkeit, dass wir einen Task falsch verstehen. Um die Wahrsc
 
 **Eintritswahrscheindlichkeit:**  Gering  
 **Gewichtung:** Mittel   
-**Gegenmassnahmen:** Individuelle Lösung für das vorhandene Missverständnis suchen und falls nötig Puzzle kontaktieren.  
+**Gegenmassnahmen:** Mit Puzzle eine Lösung für das vorhandene Missverständnis suchen.  
 
 ## CCLI Task falsch eingeschätzt
 Issue: [#383](https://github.com/puzzle/cryptopus/issues/383)  
