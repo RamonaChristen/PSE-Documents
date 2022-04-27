@@ -1,5 +1,4 @@
-# Protokoll 13.04.2022 - Meeting mit Puzzle
-
+# Protokoll 13.04.2022
 ## Anwesend 
 Assistent: Dominik Fischli
 
