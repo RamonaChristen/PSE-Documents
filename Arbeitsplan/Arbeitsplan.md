@@ -7,7 +7,7 @@
 |              | [#538](https://github.com/puzzle/cryptopus/issues/538) Arrow in Folder Navigation wrong direction | Ramona  | Done | | 12.4.2022 |
 |              | [#573](https://github.com/puzzle/cryptopus/issues/573)  UI: make toggle button pretty | Julien | Done |  | 12.4.2022 |
 | 28.3. - 3.4. | [#533](https://github.com/puzzle/cryptopus/issues/533) TECH SystemSpec for folder based actions | Raphael, Renato |Done||12.4.2022|
-|              | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona, TBD | In Progress | [LOG Details](https://github.com/puzzle-bbt/kon-cryptopus-access-log-history/blob/main/README.md#log-page-minimal-example) | 12.4.2022|
+|              | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona | Moved to next Sprint | [LOG Details](https://github.com/puzzle-bbt/kon-cryptopus-access-log-history/blob/main/README.md#log-page-minimal-example) | 12.4.2022|
 |              | [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | X | Removed || 12.4.2022| 
 |              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Raphael, Julien   | In Progress | | 12.4.2022|
 |              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | In Progress | | 12.4.2022|
@@ -15,8 +15,9 @@
 |              | Continue working on unfinished tasks 
 | 11.4. - 17.4.|  <b>Ende Iteration 2 </b>           |           |
 | 18.4. - 24.4.|  Osterferien                        |           |
-| 25.4. - 1.5  | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona, TBD | In Progress | |1.5.2022|
+| 25.4. - 1.5  | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona, TBD | In Review | |1.5.2022|
 |              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Raphael, Julien   | In Progress | | 1.5.2022|
 |              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | In Progress | | 1.5.2022|
-|| Präsentation: Technologie und Architektur | Renato | TO DO | | 27.4.2022
-|2.5. - 8.5.| [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario, TBD  | In Progress | | 10.5.2022|
+|               | [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario, TBD  | In Progress | | 03.5.2022|
+|| Präsentation: Technologie und Architektur | Renato | Done | | 27.4.2022
+|2.5. - 8.5.| <b>3.5. Ende Iteration 3<b>| | | | |
