@@ -19,4 +19,4 @@
 |              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Raphael, Julien   | In Progress | | 1.5.2022|
 |              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | In Progress | | 1.5.2022|
 || Präsentation: Technologie und Architektur | Renato | TO DO | | 27.4.2022
-|2.5. - 8.5.| [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | TBD  | TO DO | | 10.5.2022|
+|2.5. - 8.5.| [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario, TBD  | In Progress | | 10.5.2022|
