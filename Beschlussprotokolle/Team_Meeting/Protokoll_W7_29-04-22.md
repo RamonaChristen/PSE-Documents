@@ -54,4 +54,9 @@ Allgemeines feedback zu Ember:
 - Ist ein sehr mühsames Framework, vorallem die backend Requests sind sehr kompliziert und Träge. 
 
 # Beschluss 
-Bennennung aufarbeiten, bei den kunden Meetings
+Bennennung aufarbeiten, bei den kunden Meetings -> Raphael 
+Freitag Team-Meeting um 14:00 (06.05.2022)
+Dienstag Kunden-Meeting 16:15 (03.05.2022)
+Abmeldung Raphael: 06.05.2022, (20.05.2022) (nur Online)
+
+
