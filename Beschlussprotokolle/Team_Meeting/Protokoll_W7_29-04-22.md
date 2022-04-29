@@ -31,12 +31,14 @@ Die von Iteration 2 welche in Iteration 3 genommen worden sind noch vermerken
 //Status der Personen und untendran die Erklärung 
 
 ![Status](https://img.shields.io/badge/Ramona_Christen-green-green)
+
 Review von [#564](https://github.com/puzzle/cryptopus/issues/564) gemacht, warten auf Assignment. 
 
 ![Status](https://img.shields.io/badge/Dario_Marti-green-green)
+
 Arbeitet an dem Datenbank migration 
 
-![Status](https://img.shields.io/badge/Renat_Oester-green-orange)
+![Status](https://img.shields.io/badge/Renat_Oester-orange-orange)
 
 Weniger weit als erwartet, jedoch kann ich noch viel Zeit investieren. 
 
@@ -52,6 +54,10 @@ ok.
 
 Allgemeines feedback zu Ember: 
 - Ist ein sehr mühsames Framework, vorallem die backend Requests sind sehr kompliziert und Träge. 
+
+Vortrag: Demo 2 (RF) 
+Frage: Gibt es etwas das man bei der Demo 2 beachten kann? 
+Antwort Fischli:  Use case, und Roter Faden 
 
 # Beschluss 
 Bennennung aufarbeiten, bei den kunden Meetings -> Raphael 
