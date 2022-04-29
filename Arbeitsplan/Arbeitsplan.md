@@ -9,8 +9,8 @@
 | 28.3. - 3.4. | [#533](https://github.com/puzzle/cryptopus/issues/533) TECH SystemSpec for folder based actions | Raphael, Renato |Done||12.4.2022|
 |              | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona | Moved to next Sprint | [LOG Details](https://github.com/puzzle-bbt/kon-cryptopus-access-log-history/blob/main/README.md#log-page-minimal-example) | 12.4.2022|
 |              | [#565](https://github.com/puzzle/cryptopus/issues/565) LOG: Encryptable log write access/previous values | X | Removed || 12.4.2022| 
-|              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Raphael, Julien   | In Progress | | 12.4.2022|
-|              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | In Progress | | 12.4.2022|
+|              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Raphael, Julien   |Moved to next Sprint  | | 12.4.2022|
+|              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | Moved to next Sprint | | 12.4.2022|
 | 4.4. - 10.4. |Präsentation: Demo | Raphael | Done | | 6.4.2022|
 |              | Continue working on unfinished tasks 
 | 11.4. - 17.4.|  <b>Ende Iteration 2 </b>           |           |
