@@ -70,20 +70,33 @@ Action Points:
 
 ## Planung iteration
 ### Alte
-#[568 LOG:](https://github.com/puzzle/cryptopus/issues/568) Personal Log -> P
+#[568 LOG:](https://github.com/puzzle/cryptopus/issues/568) Personal Log -> P 5 
 Sortierung, Bug Fixung, refresh funktioniert nich nicht müssen noch erledigt werden
+Feedback, wegen gleichem model evtl ein Refresh. 
 
-#[564 LOG:](https://github.com/puzzle/cryptopus/issues/564) Encryptable read access -> P
+#[564 LOG:](https://github.com/puzzle/cryptopus/issues/564) Encryptable read access -> P 5
 Funktionalität ist vorhanden, evtl noch etwas vom Pull Request. Basicly finished 
 
 
-#[572 LOG:](https://github.com/puzzle/cryptopus/issues/564) Recent credentials -> P
+#[572 LOG:](https://github.com/puzzle/cryptopus/issues/564) Recent Credentials -> P 3
 Eigentlich fertig, noch ein paar kleine Bugs, Grund Bausteine sind vorhanden. 
 
 
-#[598 TECH:](https://github.com/puzzle/cryptopus/issues/564) postgresql -> P
+#[598 TECH:](https://github.com/puzzle/cryptopus/issues/564) postgresql -> P 8
 Mit Dario bilaterial schon angeschaut 
 
+### Neue 
 
+
+#[383 LOG:](https://github.com/puzzle/cryptopus/issues/383) CCLI Button -> P 3
+
+
+#[497 LOG:](https://github.com/puzzle/cryptopus/issues/497) Dark Modus -> P 2 (4h Aufwand) 
+
+
+
+##Allgemein
+
+Keine. 
 
 
