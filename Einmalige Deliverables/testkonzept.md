@@ -13,13 +13,16 @@ welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgeruf
 ## System-Tests/End-to-End Tests
 Diese werden zwar im Backend implementiert, beziehen sich aber auf die gesamte Codebase. D.h. es wird ein Firefox-Browser gestartet, welcher sich durch das gewünschte Feature hindurch klickt.
 System-Tests/End-to-End Tests sind Blackbox-Tests, d.h. es wird nur geprüft, ob die gewünschte Funktionalität existiert aber nicht, was genau in den einzelnen Methoden passiert. Ein Beispiel wäre
-zu Prüfen, ob ein Knopf eine geordnete Liste anzeigt, wenn dieser geklickt wird.
+zu Prüfen, ob ein Knopf eine geordnete Liste anzeigt, wenn dieser geklickt wird. Mit Rake werden alle Tests ausgeführt. Ein einzelnes Test-File kann mit rspec 'path/filename.spec' ausgeführt werden.
 
 ## Frontend-Tests
 Diese testen lediglich die Funktionalität im Ember-Frontend. D.h. es wird z.B. geprüft ob ein Component den richtigen Request an das Backend schickt. Auch hier wird ein Firefox-Browser gestartet
 und die Tests werden ausgeführt, indem auf die URL http://localhost:3000/tests navigiert wird. Es handelt sich um Whitebox-Tests, da auch die interne funktionalität der Methoden überprüft wird.
 
+## Rubocop
+Um eine standartisierte Formattierung sicherzustellen, wird Rubocop im gesamten Rails-Projekt verwendet. Die Regeln sind bei Spezialfällen angepasst, entsprechen aber generell den Standard Regeln welche von Rubocop gegeben sind.
+
 ## Actions
 GitHub gibt einem die Möglichkeit, Tests auch auf einem Server laufen zu lassen. Im Cryptopus wird bei jedem commit der auf das Repository gepushed wird, eine GitHub Action gestartet,
-welche alle Tests ausführt.
+welche alle Tests (auch Rubocop) ausführt.
 
