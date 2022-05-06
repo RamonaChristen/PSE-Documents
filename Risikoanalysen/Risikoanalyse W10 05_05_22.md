@@ -13,8 +13,8 @@ Im Fall, dass wir trotzdem nicht alle Tasks beenden, müssen wir Puzzle informie
 ## Zeit verlieren, an der wir geplant haben am PSE zu arbeiten
 Da es in diesem Sprint nochmal wichtiger ist, alle Tasks abzuschliessen, hat dass verlieren von eingeplanter Zeit noch grössere Konsequenzen. Dies kann durch krankheitsbedingte Ausfälle, technische Probleme oder sonstige Notfälle passieren.
 Da es in diesen Fällen kaum gute Gegenmassnahmen gibt, ist es wichtig dass wir bereits zu Beginn des Sprints unsere Arbeit machen damit das vorhandene Zeitpolster nicht unnötig verloren geht und dann in Notfällen nicht mehr vorhanden ist.
-Falls eine solche Situation dann eintritt, gilt es für die anderen Personen die verbleibende Arbeit der betroffenen Person aufzuteilen und zu erledigen.
+Falls eine solche Situation dann eintritt, gilt es für die anderen Personen die verbleibende Arbeit der betroffenen Person aufzuteilen und zu erledigen. Wenn dies nicht möglich ist, muss mit Puzzle vereinbart werden, welche Tasks weggelassen werden können.
   
 **Eintritswahrscheindlichkeit:**  Gering  
 **Gewichtung:** Hoch   
-**Gegenmassnahmen:** Die verbleibende Arbeit im Rest der Gruppe, die noch arbeiten kann, aufteilen und erledigen.
+**Gegenmassnahmen:** Die verbleibende Arbeit im Rest der Gruppe, die noch arbeiten kann, aufteilen und erledigen. Ist dies nicht realistisch, so muss Puzzle kontaktiert werden um eine gemeinsame Lösung zu finden.
