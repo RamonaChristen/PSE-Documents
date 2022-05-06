@@ -1,6 +1,8 @@
 # Statusbericht
 ## 03.05.2022
 
+Allgemeiner Status ![Status](https://github.com/RamonaChristen/PSE-Documents/blob/main/public/images/status_ok.jpg?raw=true)
+
 Die Implementation der LOG-tasks hat deutlich mehr Zeit in Aspruch genommen als geschätzt wurde und diese Tasks konnten desshalb nicht abgeschlossen werden. Diese Tasks wurden im Planning Meeting erneut geschätzt und eingeplant. Die Implementation dieser Issues ist grösstenteils abgeschlossen, es wird aber noch etwas Zeit für bugfixing/testing benötigt. Asserdem ist auch noch Zeit eingeplant um Änderungen aufgrund der Rievews von Puzzle auszuführen. Auch die Issue zur Implementierung des Supports für postgresql wurde erneut übernommen.
 
 Sprint 3
