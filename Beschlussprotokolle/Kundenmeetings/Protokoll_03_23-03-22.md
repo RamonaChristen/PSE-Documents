@@ -82,7 +82,7 @@ Action Points:
 
 -> Früher Fragen stellen
 
--> Tasks mal konzeptionieren und durchdenken, dann nachfragen und dann bedacht abfangen :) 
+-> Tasks mal konzeptionieren und durchdenken, dann nachfragen und dann bedacht anfangen :) 
 
 -> Tech-Talks weitermachen (Themenwünsche)
    
