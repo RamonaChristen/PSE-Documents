@@ -1,9 +1,25 @@
 # Testkonzept von Cryptopus
 
-## Ablauf
+Das Cryptopus hat ein umfangreiches Testkonzept welches Unit-Tests, System-Tests, End-to-End Tests, Frontend-Tests, Actions und einen mehrstufigen Review-Prozess beinhaltet.
+Wird ein neues Feature implementiert (z.B. logs), dann muss dieses vollständig mit den oben genannten Tests abgedeckt werden. Das Feature wird auf einem separaten branch implementiert
+und wird bei einem Pull-Request zuerst von einem Mitarbeiter und dann vom verantwortlichen für das Projekt reviewt. Falls noch änderungen vorgenommen werden müssen, werden diese gemacht, gepusht und dann wieder reviewt.
+Dieser Prozess wird so lange wiederholt, bis der Branch den Anforderungen der Reviewer entspricht. Ist das der Fall, so wird der Branch in den Master Branch gemerged.
 
-- Unit tests implementieren
-- end-to-end tests lokal mit rake ausführen
-- rubocop lokal mit rake ausführen
-- Dockerimage build testen
-- GitHub Action ausführen
+## Unit-Tests
+Diese werden im Cryptopus im Rails-Backend implementiert. Mit den Unit-Tests wird sichergestellt, dass die einzelnen Komponenten/Funktionen unabhängig voneinander Funktionieren. Unit-Tests
+sind im Cryptopus Whitebox-Tests, d.h. es wird nicht nur geschaut, ob sie den gewünschten output liefern, sondern auch wie dieser Zustande kommt. Wird z.B. eine Methode in der Methode aufgerufen,
+welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgerufen wurde.
+
+## System-Tests/End-to-End Tests
+Diese werden zwar im Backend implementiert, beziehen sich aber auf die gesamte Codebase. D.h. es wird ein Firefox-Browser gestartet, welcher sich durch das gewünschte Feature hindurch klickt.
+System-Tests/End-to-End Tests sind Blackbox-Tests, d.h. es wird nur geprüft, ob die gewünschte Funktionalität existiert aber nicht, was genau in den einzelnen Methoden passiert. Ein Beispiel wäre
+zu Prüfen, ob ein Knopf eine geordnete Liste anzeigt, wenn dieser geklickt wird.
+
+## Frontend-Tests
+Diese testen lediglich die Funktionalität im Ember-Frontend. D.h. es wird z.B. geprüft ob ein Component den richtigen Request an das Backend schickt. Auch hier wird ein Firefox-Browser gestartet
+und die Tests werden ausgeführt, indem auf die URL http://localhost:3000/tests navigiert wird. Es handelt sich um Whitebox-Tests, da auch die interne funktionalität der Methoden überprüft wird.
+
+## Actions
+GitHub gibt einem die Möglichkeit, Tests auch auf einem Server laufen zu lassen. Im Cryptopus wird bei jedem commit der auf das Repository gepushed wird, eine GitHub Action gestartet,
+welche alle Tests ausführt.
+
