@@ -8,7 +8,8 @@ Dieser Prozess wird so lange wiederholt, bis der Branch den Anforderungen der Re
 ## Unit-Tests
 Diese werden im Cryptopus im Rails-Backend implementiert. Mit den Unit-Tests wird sichergestellt, dass die einzelnen Komponenten/Funktionen unabhängig voneinander Funktionieren. Unit-Tests
 sind im Cryptopus Whitebox-Tests, d.h. es wird nicht nur geschaut, ob sie den gewünschten output liefern, sondern auch wie dieser Zustande kommt. Wird z.B. eine Methode in der Methode aufgerufen,
-welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgerufen wurde.
+welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgerufen wurde. Im Cryptopus existieren separate Test Ordner für Controller-Tests, Migration-Tests, Authorisierungs-Tests
+und Integration-Tests. Integration-Tests testen die von Controllern unabhängige Funktionalität, wie z.B. Models.
 
 ## System-Tests/End-to-End Tests
 Diese werden zwar im Backend implementiert, beziehen sich aber auf die gesamte Codebase. D.h. es wird ein Firefox-Browser gestartet, welcher sich durch das gewünschte Feature hindurch klickt.
@@ -25,4 +26,3 @@ Um eine standartisierte Formattierung sicherzustellen, wird Rubocop im gesamten 
 ## Actions
 GitHub gibt einem die Möglichkeit, Tests auch auf einem Server laufen zu lassen. Im Cryptopus wird bei jedem commit der auf das Repository gepushed wird, eine GitHub Action gestartet,
 welche alle Tests (auch Rubocop) ausführt.
-
