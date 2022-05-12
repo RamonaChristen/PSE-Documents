@@ -21,7 +21,7 @@ Teammitglied| Implementation von Stories | Implementation von Testfällen | Eina
 |Ramona     | 8 Stunden                  | 5 Stunden                     |  -                                | -                    |
 |Raphael    |                            |                               |                                   |                      |
 |Julien     | 8 Stunden                  | 3 Stunden                     |  -                                | -                    |
-|Renato     |  Stunden                  |  Stunden                     |   Stunden                        |  Stunden            |
+|Renato     | 9 Stunden                 | 7 Stunden                     |  2 Stunden                        | -                    |
 |Dario      |  Stunden                 |  Stunden                     |   Stunden                        |  Stunden            |
 
   * Wo ist für die nächste Iteration diesbezüglich der grösste Aufwand zu erwarten? 
