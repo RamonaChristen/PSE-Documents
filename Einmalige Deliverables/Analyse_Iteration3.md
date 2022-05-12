@@ -20,7 +20,7 @@ Teammitglied| Implementation von Stories | Implementation von Testfällen | Eina
 |-----------|----------------------------|-------------------------------|-----------------------------------|----------------------|
 |Ramona     | 8 Stunden                  | 5 Stunden                     |  -                                | -                    |
 |Raphael    |                            |                               |                                   |                      |
-|Julien     |  Stunden                 |  Stunden                     |   Stunde                         | Stunden            |
+|Julien     | 8 Stunden                  | 3 Stunden                     |  -                                | -                    |
 |Renato     |  Stunden                  |  Stunden                     |   Stunden                        |  Stunden            |
 |Dario      |  Stunden                 |  Stunden                     |   Stunden                        |  Stunden            |
 
