@@ -2,9 +2,10 @@
 ## Anwesend 
 Assistent: Dominik Fischli
 
-PSE Team: Dario Marti, Renato Oester, Julien Gaumez, Ramona Christen _(Protokoll)_
+PSE Team: Dario Marti, Renato Oester, Julien Gaumez, Ramona Christen, Raphael Fehr _(Protokoll)_
 ## Entschuldigt
-Raphael Fehr
+-Keine Abwesenden
+
 # Traktanden
 
 [Feedback](#feedback-assistent) 
@@ -16,6 +17,16 @@ Raphael Fehr
 [Beschluss](#beschluss)
 
 # Feedback
+
+##Status Bericht
+Erklärung wie es grosser Aufwand Stundenmässig eingerechnet sind. 
+Antwort: Dadurch, dass noch Reserve eingeplant ist. Dadurch, dass wir auch letztes mal weniger geplant haben und es ein wenig Unterschätzt haben, ist es in dieser Iteration einwenig anders. 
+
+## Rückblick auf Iteration 3 und die Stunden 
+Renato hatte sehr viel mehr Stunden, dies aus eigenem Willen durch überkompensation. 
+
+## Aufwandschätzung 
+Seid Vorsichtig beim Aufwandschätzen da das Effektive mit dem geschätzten einigermassen übereinstimmen sollte. 
 
 
 # Status
@@ -48,11 +59,19 @@ Auch noch am Log personal, nun noch bei den tests, sollte bald fertig sein.
 
 Dies ist ein rechtes problem. Wo noch über das gesamte projekt ein Problem ist.
 
+### Fazit 
+Bis jetzt alles Grün, ausser die Migration mit Postqres. 
+
 
 # Varia 
-
+-
 
 
 # Beschluss 
+Schlussdemo 25.05.20022
+Freitag Team-Meeting um 14:00 (20.05.2022)
+Dienstag Kunden-Meeting 16:15 (24.05.2022)
+Online Meldung Raphael: 20.05.2022, (Online) ganze Nächste Woche
+Bräteln 31.05.2022 (Bräteln)
 
 
