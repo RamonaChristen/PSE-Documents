@@ -26,7 +26,7 @@ baut vollständig auf Ticket /#564 auf und konnte garnicht implementiert werden.
 Teammitglied| Implementation von Stories | Implementation von Testfällen | Einarbeiten in neue Technologien  | Systemadministration (Setup Cryptopus) |
 |-----------|----------------------------|-------------------------------|-----------------------------------|----------------------|
 |Ramona     | 18 Stunden                 | 2 Stunden                     |  1 Stunde                         | 1 Stunde             |
-|Raphael    |                            |                               |                                   |                      |
+|Raphael    | 11 Stunden                 | 5 Stunden                     |  2 Stunde                         | 4 Stunden            |
 |Julien     | 13 Stunden                 | 4 Stunden                     |  1 Stunde                         | 3 Stunden            |
 |Renato     | 8 Stunden                  | 6 Stunden                     |  2 Stunden                        | 5 Stunden            |
 |Dario      | 18 Stunden                 | 2 Stunden                     |  1 Stunden                        | 0 Stunden            |
