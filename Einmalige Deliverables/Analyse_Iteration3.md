@@ -22,7 +22,7 @@ Teammitglied| Implementation von Stories | Implementation von Testfällen | Eina
 |Raphael    | 7 Stunden                  | 4 Stunden                     |  1 Stunde                         | 1Stunde              |
 |Julien     | 8 Stunden                  | 3 Stunden                     |  -                                | -                    |
 |Renato     | 9 Stunden                  | 7 Stunden                     |  2 Stunden                        | -                    |
-|Dario      | 9 Stunden                  |  Stunden                      |   Stunden                         |  Stunden             |
+|Dario      | 9 Stunden                  | 5 Stunden                     |  - Stunden                        | - Stunden             |
 
   * Wo ist für die nächste Iteration diesbezüglich der grösste Aufwand zu erwarten? 
     * Der grösste Aufwand ist weiterhin in der Implementation von Stories und Testfällen zu erwarten. Zudem muss noch abgesprochen werden ob der Kunde noch zusätzliche Dokumentation von uns wünscht.
