@@ -8,8 +8,21 @@ Dieser Prozess wird so lange wiederholt, bis der Branch den Anforderungen der Re
 ## Unit-Tests
 Diese werden im Cryptopus im Rails-Backend implementiert. Mit den Unit-Tests wird sichergestellt, dass die einzelnen Komponenten/Funktionen unabhängig voneinander Funktionieren. Unit-Tests
 sind im Cryptopus Whitebox-Tests, d.h. es wird nicht nur geschaut, ob sie den gewünschten output liefern, sondern auch wie dieser Zustande kommt. Wird z.B. eine Methode in der Methode aufgerufen,
-welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgerufen wurde. Im Cryptopus existieren separate Test Ordner für Controller-Tests, Migration-Tests, Authorisierungs-Tests
-und Integration-Tests. Integration-Tests testen die von Controllern unabhängige Funktionalität, wie z.B. Models.
+welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgerufen wurde.
+
+## Integration-Tests
+Im Cryptopus existieren separate Test Ordner für Controller-Tests, Migration-Tests, Authorisierungs-Tests
+und Integration-Tests. Integration-Tests testen das Zusammenspiel mehrerer Funktionen. Wird eine neue Funktion implementiert, muss also auch überprüft werden, wie diese sich im Zusammenhang mit anderen
+Funktionen verhält.
+
+## Migration-Tests
+Diese werden im Rails-Backend implementiert und testen, ob die Datenbank-Migrationen richtig ausgeführt werden.
+
+## Controller-Tests
+Diese werden auch im Rails-Backend implementiert und testen ausschliesslich die Controller.
+
+## Policy-Tests
+Das Cryptopus verfügt über Policies welche definiere, auf welche Models ein User zugreifen darf. Diese Policies werden ebenfalls separat getestet.
 
 ## System-Tests/End-to-End Tests
 Diese werden zwar im Backend implementiert, beziehen sich aber auf die gesamte Codebase. D.h. es wird ein Firefox-Browser gestartet, welcher sich durch das gewünschte Feature hindurch klickt.
