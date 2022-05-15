@@ -64,7 +64,7 @@ Bis jetzt alles Grün, ausser die Migration mit Postqres.
 
 
 # Varia 
--
+- Keine
 
 
 # Beschluss 
