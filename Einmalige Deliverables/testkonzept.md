@@ -44,6 +44,7 @@ welche alle Tests (auch Rubocop) ausführt.
 Das Cryptopus wird als Passwortmanager von allen Angestellten von Puzzle verwendet. Da das Cryptopus intern entwickelt wird, verfügen die Entwickler über ein grosses
 Vorwissen der Software. Für die anderen Angestellten, wie z. B. diese im HR, beschränken sich die Vorkenntnisse auf die Bedienung der Software. Das Umfasst vorallem
 das Anmelden, das Finden von Passwörtern und das Kopieren/Einfügen von Passwörtern bei Login in eine andere Software. Die Bedienbarkeit wird von den Entwicklern
-getestet, welche daran Arbeiten. Wird z. B. im Frontend ein neuer Knopf implementiert, welche eine Liste aller User anzeigt, überprüft der Entwickler, 
+getestet, welche daran Arbeiten. Wird z. B. im Frontend ein neuer Knopf implementiert, welcher eine Liste aller User anzeigt, überprüft der Entwickler, 
 ob der Knopf richtig angezeigt wird. Danach überprüft er, ob die Liste richtig dargestellt wird und ob die User in der gewünschten Reihenfolge angezeigt werden.
 Er erstellt dann einen System-Spec, welcher diesem Ablauf entspricht.
+Zusätzlich bekommt jeder Entwickler von Cryptopus, vor einem neuen Release, 30 minuten Zeit um sich durch die Seite zu klicken. Dabei versuchen sie mithilfe von Edge-Cases Fehler zu erzeugen. Alle gefundenen Fehler oder sonstige Kritikpunkte der Entwickler werden dann noch vor dem Release behoben.
