@@ -39,3 +39,11 @@ Um eine standartisierte Formattierung sicherzustellen, wird Rubocop im gesamten 
 ## Actions
 GitHub gibt einem die Möglichkeit, Tests auch auf einem Server laufen zu lassen. Im Cryptopus wird bei jedem commit der auf das Repository gepushed wird, eine GitHub Action gestartet,
 welche alle Tests (auch Rubocop) ausführt.
+
+## Usability-Tests
+Das Cryptopus wird als Passwort-Manager von allen Angestellten von Puzzle verwendet. Da das Cryptopus intern entwickelt wird, verfügen die Entwickler über ein grosses
+Vorwissen der Software. Für die anderen Angestellten, wie z.B. diese im HR, beschränken sich die Vorkenntnisse auf die Bedienung der Software. Das Umfasst vorallem
+das Anmelden, das Finden von Passwörtern und das Kopieren/Einfügen von Passwörtern bei Login in eine andere Software. Die Bedienbarkeit wird von den Entwicklern
+getestet, welche daran Arbeiten. Wird z.B. im Frontend ein neuer Knopf implementiert, welche ein Liste aller User anzeigt, überprüft der Entwickler 
+ob der Knopf richtig angezeigt wird. Danach überprüft er, ob die Liste richtig dargestellt wird und ob die User in der gewünschten Reihenfolge angezeigt werden.
+Er erstellt dann einen System-Spec, welcher diesem Ablauf entspricht.
