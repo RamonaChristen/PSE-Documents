@@ -14,7 +14,7 @@ Allgemeiner Status ![Status](https://github.com/RamonaChristen/PSE-Documents/blo
 | [#383](https://github.com/puzzle/cryptopus/issues/383) CCLI: Login command button | Renato | ![Status](https://img.shields.io/badge/Status-OK-green) | 3 | 3 | 1 |
 | [#497](https://github.com/puzzle/cryptopus/issues/497) [Conception] Feature: Dark Mode | TBD | ![Status](https://img.shields.io/badge/Status-TBD-yellow) | 2 | 0 | 2|
 
-\* Angaben in Storypoints (1 SP = ca. 2 hours)  
+\* Angaben in Storypoints (1 SP = ca. 4 hours)  
 Buchstaben geben die Person an.  
 D Dario  
 J Julien  
