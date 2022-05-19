@@ -8,7 +8,7 @@ Die Implementation der LOG-tasks ist abgeschlossen und Änderungen aus den Revie
 | Tasks       | Asignee   | Status | Geschätzt*  | Bis jetzt*  | Noch zu machen* |
 | ----------- | -------   | -------| -----------|----------- | ------|
 | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona | ![Status](https://img.shields.io/badge/Status-PR-blue) | 5 | D 1, RC 1 | 3 |
-| [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Julien, Raphael    | ![Status](https://img.shields.io/badge/Status-PR-blue)  | 5 | J 2, RF 1, RC 2 | 2 |    
+| [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Julien, Raphael, Ramona    | ![Status](https://img.shields.io/badge/Status-PR-blue)  | 5 | J 4, RF 1, RC 2 | 2 |    
 | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | ![Status](https://img.shields.io/badge/Status-PR-blue) | 3 | 4 | 0 |    
 | [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario | ![Status](https://img.shields.io/badge/Status-behind_schedule-yellow) | 8 | 0 | 8 |
 | [#383](https://github.com/puzzle/cryptopus/issues/383) CCLI: Login command button | Renato | ![Status](https://img.shields.io/badge/Status-PR-blue) | 3 | 3 | 1 |
