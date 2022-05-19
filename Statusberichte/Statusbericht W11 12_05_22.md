@@ -14,7 +14,7 @@ Die Implementation der LOG-Tasks ist abgeschlossen, allerdings sind noch Reviews
 | [#383](https://github.com/puzzle/cryptopus/issues/383) CCLI: Login command button | Renato | ![Status](https://img.shields.io/badge/Status-OK-green) | 3 | 1 | 2 |
 | [#497](https://github.com/puzzle/cryptopus/issues/497) [Conception] Feature: Dark Mode | TBD | ![Status](https://img.shields.io/badge/Status-TBD-yellow) | 2 | 0 | 2|
 
-\* Angaben in Storypoints (1 SP = 2 hours)  
+\* Angaben in Storypoints (1 SP = ca. 4 hours)  
 Buchstaben geben die Person an.  
 D Dario  
 J Julien  
