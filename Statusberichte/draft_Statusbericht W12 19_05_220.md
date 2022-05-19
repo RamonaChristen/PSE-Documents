@@ -3,7 +3,7 @@
 
 Allgemeiner Status ![Status](https://github.com/RamonaChristen/PSE-Documents/blob/main/public/images/status_ok.jpg?raw=true)
 
-
+Die Implementation der LOG-tasks ist abgeschlossen und Änderungen aus den Reviews sind umgesetzt. Die Pullrequests sind aber noch offen und Schlussreviews sind noch ausstehend. Auch der CCLI login button ist implementiert und eine Pullrequest ist gemacht, dieser task wurde aber noch nicht reviewd und es ist noch mit Aufwand für Änderungen zu rechnen. Beim Support der postgresql Datenbank sind immer noch Probleme vorhanden die wir im Kontakt mit Puzzle versuchen zu lösen. Die Dark-mode Konzeption ist noch offen, der Aufwand für diese Issue ist aber zeitlich beschränkt und sie muss zum Abschluss nicht von Puzzle reviewd werden.
 
 | Tasks       | Asignee   | Status | Geschätzt*  | Bis jetzt*  | Noch zu machen* |
 | ----------- | -------   | -------| -----------|----------- | ------|
