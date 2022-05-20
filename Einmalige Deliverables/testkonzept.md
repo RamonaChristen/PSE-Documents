@@ -8,30 +8,35 @@ Dieser Prozess wird so lange wiederholt, bis der Branch den Anforderungen der Re
 ## Unit-Tests
 Diese werden im Cryptopus im Rails-Backend implementiert. Mit den Unit-Tests wird sichergestellt, dass die einzelnen Komponenten/Funktionen unabhängig voneinander Funktionieren. Unit-Tests
 sind im Cryptopus Whitebox-Tests, d.h. es wird nicht nur geschaut, ob sie den gewünschten Output liefern, sondern auch wie dieser zustande kommt. Wird z. B. eine Methode in der Methode aufgerufen,
-welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgerufen wurde.
+welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgerufen wurde. Beispiele für Unit-Tests bzgl. eines Serializers befinden sich unter https://github.com/puzzle/cryptopus/blob/master/spec/unit/serializers/team_serializer_spec.rb .
 
 ## Integration-Tests
 Im Cryptopus existieren separate Test Ordner für Controller-Tests, Migration-Tests, Autorisierungstests
 und Integration-Tests. Integration-Tests testen das Zusammenspiel mehrerer Funktionen. Wird eine neue Funktion implementiert, muss also auch überprüft werden, wie diese sich im Zusammenhang mit anderen
-Funktionen verhält.
+Funktionen verhält. Ein Integration-Test für das User Modell sieht dann so aus https://github.com/puzzle/cryptopus/blob/master/spec/integration/user_login_spec.rb .
 
 ## Migration-Tests
 Diese werden im Rails-Backend implementiert und testen, ob die Datenbank-Migrationen richtig ausgeführt werden.
+Das folgende Beispiel zeigt einen Migration-Test: https://github.com/puzzle/cryptopus/blob/master/spec/migrations/move_file_entries_to_encryptable_files_spec.rb
 
 ## Controller-Tests
-Diese werden auch im Rails-Backend implementiert und testen ausschließlich die Controller.
+Diese werden auch im Rails-Backend implementiert und testen ausschließlich die Controller. Tests für den Session Controller sehen z.B. so aus https://github.com/puzzle/cryptopus/blob/master/spec/controllers/session_controller_spec.rb .
 
 ## Policy-Tests
 Das Cryptopus verfügt über Policies welche definiere, auf welche Models ein User zugreifen darf. Diese Policies werden ebenfalls separat getestet.
+Im folgenden Policy-Test werden die Policies bzgl. eines Encryptables getestet:
+https://github.com/puzzle/cryptopus/blob/master/spec/policies/encryptable_policy_spec.rb
 
 ## System-Tests/End-to-End Tests
 Diese werden zwar im Backend implementiert, beziehen sich aber auf die gesamte Codebase. D. h. Es wird ein Firefox-Browser gestartet, welcher sich durch das gewünschte Feature hindurch klickt.
 System-Tests/End-to-End Tests sind Blackbox-Tests, d.h. es wird nur geprüft, ob die gewünschte Funktionalität existiert aber nicht, was genau in den einzelnen Methoden passiert. Ein Beispiel wäre
 zu Prüfen, ob ein Knopf eine geordnete Liste anzeigt, wenn dieser geklickt wird. Mit Rake werden alle Tests ausgeführt. Ein einzelnes Test-File kann mit rspec 'path/filename.spec' ausgeführt werden.
+Der folgende System-Test überprüft, ob ein User mit dem UI erstellt werden kann https://github.com/puzzle/cryptopus/blob/master/spec/system/create_user_system_spec.rb
 
 ## Frontend-Tests
 Diese testen lediglich die Funktionalität im Ember-Frontend. D. h. es wird z. B. geprüft, ob ein Component den richtigen Request an das Backend schickt. Auch hier wird ein Firefox-Browser gestartet
 und die Tests werden ausgeführt, indem auf die URL http://localhost:3000/tests navigiert wird. Es handelt sich um Whitebox-Tests, da auch die interne Funktionalität der Methoden überprüft wird.
+Das folgende Beispiel zeigt einen Integration-Test im Frontend. https://github.com/puzzle/cryptopus/blob/master/frontend/tests/integration/components/admin/users-test.js
 
 ## Rubocop
 Um eine standardisierte Formatierung sicherzustellen, wird Rubocop im gesamten Rails-Projekt verwendet. Die Regeln sind bei Spezialfällen angepasst, entsprechen aber generell den Standard Regeln, welche von Rubocop gegeben sind.
@@ -47,4 +52,4 @@ das Anmelden, das Finden von Passwörtern und das Kopieren/Einfügen von Passwö
 getestet, welche daran Arbeiten. Wird z. B. im Frontend ein neuer Knopf implementiert, welcher eine Liste aller User anzeigt, überprüft der Entwickler, 
 ob der Knopf richtig angezeigt wird. Danach überprüft er, ob die Liste richtig dargestellt wird und ob die User in der gewünschten Reihenfolge angezeigt werden.
 Er erstellt dann einen System-Spec, welcher diesem Ablauf entspricht.
-Zusätzlich bekommt jeder Entwickler von Cryptopus, vor einem neuen Release, 30 minuten Zeit um sich durch die Seite zu klicken. Dabei versuchen sie mithilfe von Edge-Cases Fehler zu erzeugen. Alle gefundenen Fehler oder sonstige Kritikpunkte der Entwickler werden dann noch vor dem Release behoben.
+Zusätzlich bekommt jeder Entwickler von Cryptopus, vor einem neuen Release, 30 Minuten Zeit um sich durch die Seite zu klicken. Dabei versuchen sie mithilfe von Edge-Cases Fehler zu erzeugen. Alle gefundenen Fehler oder sonstige Kritikpunkte der Entwickler werden dann noch vor dem Release behoben.
