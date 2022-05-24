@@ -2,7 +2,7 @@
 
 ## Anwesend
 Puzzle: Robin Steiner (Leitung)\
-PSE: Dominik Fischli, Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (Protokoll), Ramona Christen
+PSE: Dominik Fischli, Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (Protokoll + KAM), Ramona Christen
 
 ## Traktanden
 * Retro Iteration 1

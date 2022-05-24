@@ -2,7 +2,7 @@
 
 ## Anwesend 
 Puzzle: Robin Steiner(Leitung), Pascal Simon, Lias Kleisa, Niklas Jäggi \
-PSE: Dominik Fischli, Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (Protokoll), Ramona Christen
+PSE: Dominik Fischli, Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (Protokoll + KAM[Key Account Manager]), Ramona Christen
 
 ## Traktanden
 - Vorstellung Projekt
