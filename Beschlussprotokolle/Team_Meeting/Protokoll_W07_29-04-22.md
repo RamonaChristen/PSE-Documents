@@ -2,7 +2,7 @@
 ## Anwesend 
 Assistent: Dominik Fischli
 
-PSE Team: Dario Marti, Renato Oester, Julien Gaumez, Ramona Christen, Raphael  _(Protokoll)_ 
+PSE Team: Dario Marti, Renato Oester, Julien Gaumez, Ramona Christen, Raphael  _(Protokoll + Leiter)_ 
 
 # Traktanden
 
