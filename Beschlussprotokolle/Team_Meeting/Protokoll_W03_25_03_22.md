@@ -1,4 +1,4 @@
-# Protokoll 25.03.2022
+# Protokoll 25.03.2022, Bern, 14:00
 ## Anwesend 
 Assistent: Dominik Fischli
 
@@ -41,19 +41,24 @@ Beschluss
 
 # Status
 ![Status](https://img.shields.io/badge/Ramona_Christen-Status-green)
+
 Alles i.o. Ein Issue schon abgeschlossen.
 
 ![Status](https://img.shields.io/badge/Dario_Marti-Status-green)
+
 Wartet auf bestätigung für Issue Upgrade (Risiko ablehnung) 
 
 ![Status](https://img.shields.io/badge/Renat_Oester-Status-green)
+
 Alles i.O.
 
 ![Status](https://img.shields.io/badge/Julien_Gaumez-Status-green)
+
 Presentation gemacht, und noch den Button verschönern. 
 
 
 ![Status](https://img.shields.io/badge/Raphael_Fehr-Status-green)
+
 Abwesenheits Meldung für Sitzung 29.04.2022 und 06.05.2022 Raphael
 
 # Varia 

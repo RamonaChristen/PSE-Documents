@@ -1,4 +1,4 @@
-# Protokoll 13.04.2022
+# Protokoll 13.04.2022, Bern, 14:00 
 ## Anwesend 
 Assistent: Dominik Fischli
 
@@ -45,17 +45,21 @@ Anlyse 2. Iteration muss noch mit Stunden aller Teammitglieder ergänzt werden.
 //Status der Person und untendran die Erklärung 
 
 ![Status](https://img.shields.io/badge/Ramona_Christen-green-green)
+
 Arbeitet weiter an Issue _[#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access_. Meeting mit Puzzle hat einige neue Ideen gegeben. Das Issue sollte nun bald fertiggestellt werden können.
 
 ![Status](https://img.shields.io/badge/Dario_Marti-green-green)
+
 Weiterarbeit ebenfalls an Issue _[#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access_. Es gibt noch ein paar Probleme mit Ember, vor allem darin zu verstehen wie Ember in unserem Projekt verwendet wird.
 
 ![Status](https://img.shields.io/badge/Renat_Oester-green-green)
+
 Arbeitet an Issue _[#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard_ , fand eine Lösung dies unabhänig von Issue /#564 zu lösen indem vorübergehend Testdaten simuliert werden.
 
 ![Status](https://img.shields.io/badge/Julien_Gaumez-green-green)
 
 Arbeitet weiter an Issue _[#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity Log_, kann nun auch unabhängig von read access log gelöst werden indem ein separater Rails Controller erstellt wird anstatt auf die Fertigstellung von /#564 zu warten.
+
 # Varia 
 Diskussion wie die Abhängigkeit zwischen Tasks reduziert werden kann. Es wurde beschlossen, dass für den Personal Log einen separaten Controller erstellt wird, damit unabhängig vom Read Access Log gearbeitet werden kann
 

@@ -1,4 +1,4 @@
-# Protokoll 01.04.2022
+# Protokoll 01.04.2022, Bern, 14:00
 ## Anwesend 
 Assistent: Dominik Fischli
 
@@ -63,6 +63,8 @@ Puzzle: Würde trotzdem ein Bräteln machen, falls es kein Bräteln vom PSE aus 
 Demo: Raphael 
 Architektur: Renato 
 Test: Dario 
+
+Nächste Sitzung 08.04.2022 um 14:00 
 
 Sitzung beendet 
 

@@ -1,4 +1,4 @@
-# Protokoll 11_03_2022
+# Protokoll 11_03_2022, Bern 14:00
 ## Anwesend 
 Assistent: Dominik Fischli
 

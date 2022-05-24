@@ -1,4 +1,4 @@
-# Protokoll 18.03.2022
+# Protokoll 18.03.2022, Bern, 14:00
 ## Anwesend 
 Assistent: Dominik Fischli
 
@@ -39,3 +39,4 @@ Keine
 
 # Beschluss 
 Raphael Sucht meeting Point für das nächste Meeting und gibt dieses Per Chat bekannt
+Nächstes Meeting Freitag 25.03.2022 

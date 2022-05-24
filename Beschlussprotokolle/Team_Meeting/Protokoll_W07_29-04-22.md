@@ -1,4 +1,4 @@
-# Protokoll 13.04.2022
+# Protokoll 13.04.2022, Bern, 14:00 
 ## Anwesend 
 Assistent: Dominik Fischli
 
