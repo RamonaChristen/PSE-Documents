@@ -27,7 +27,7 @@
 |          | [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario, TBD  | In Progress ||15.5.2022|
 |          | Präsentation: Qualitätssicherung, Testing, Usability | Dario |TO DO | | 11.5.2022|
 | 16.5. - 22.5.| [#383](https://github.com/puzzle/cryptopus/issues/383) CCLI: Login Command Button| TBD | TO DO | |24.5.2022 |
-|          | [#497](https://github.com/puzzle/cryptopus/issues/497) Feature: Dark Mode|TBD | TO DO | | 24.5.2022 |
+|          | [#497](https://github.com/puzzle/cryptopus/issues/497) Feature: Dark Mode|Raphael | Done | | 24.5.2022 |
   |        | Dokumentation fertig schreiben | TBD | TO DO | | 18.5.2022
 |23.5. - 29.5.| <b>24.5. Ende letzte Iteration<b>| | | | |
 |             |Präsentation: Schlussdemo | Raphael | TO DO |  |25.5.2022|
