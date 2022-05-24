@@ -1,4 +1,4 @@
-# Protokoll 22.3.22 - Meeting mit Puzzle
+# Protokoll 03.05.22 - Meeting mit Puzzle
 
 ## Anwesend
 Puzzle: Robin Steiner (Leitung), Pascal Simon
