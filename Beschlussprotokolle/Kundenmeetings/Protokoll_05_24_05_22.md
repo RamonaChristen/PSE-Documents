@@ -2,8 +2,8 @@
 
 ## Anwesend
 Puzzle: Robin Steiner (Leitung), Pascal Simon
-PSE: Renato Oester, Julien Gaumez, Raphael Fehr (Protokoll + KAM), Ramona Christen, Dominik Fischli
-Entschuldigt: Dario Marti
+PSE: Renato Oester, Julien Gaumez, Raphael Fehr (Protokoll + KAM), Ramona Christen, Dominik Fischli, Dario Marti
+
 Unentschuldigt: -
 
 ## Traktanden
@@ -29,7 +29,8 @@ Unentschuldigt: -
 
 **Continue**
 <details><summary>Continue</summary>
-  
+  Rails fähigkeiten 
+  Bier
  
   
   </details>
@@ -37,42 +38,53 @@ Unentschuldigt: -
 <details><summary>Bild</summary>
 
 
-![test photo](https://github.com/RamonaChristen/PSE-Documents/blob/main/public/images/Start_Stop_Continue_RetroNr2.jpg)
+![test photo]()
 
 </details>
 
-## Action Points
-### Retro:
+## Lessons learned
 
+details><summary>LL</summary>
+Teamarbeit 
+PR Zeit 
+funktioniert =/ fertig 
+Rails Erfahrung 
+Iterationsablauf 
+Github 
+Laufendes Projekt bearbeiten 
+  Wer macht was
+  Get Tools 
+  Absprechen 
+  Tech Talks 
+  Kleinere Tickets
+  Arbeit in Gruppen
+  Schätzen des Zeitaufwandes 
+  Ember 
+  Arbeit in verschiedenen Envirements
+  
+ 
+  
+  </details>
 
-## Planung iteration
-### Alte
-#[568 LOG:](https://github.com/puzzle/cryptopus/issues/568) Personal Log -> P 5 
-
-
-#[564 LOG:](https://github.com/puzzle/cryptopus/issues/564) Encryptable read access -> P 5
-
-
-
-#[572 LOG:](https://github.com/puzzle/cryptopus/issues/564) Recent Credentials -> P 3
-
-
-
-#[598 TECH:](https://github.com/puzzle/cryptopus/issues/564) postgresql -> P 8
-
-
-### Neue 
-
-
-#[383 LOG:](https://github.com/puzzle/cryptopus/issues/383) CCLI Button -> P 3
-
-
-#[497 LOG:](https://github.com/puzzle/cryptopus/issues/497) Dark Modus -> P 2 (4h Aufwand) 
-
+## Feedback 
+details><summary>Feedback</summary>
+  Arbeits Ort +++
+  Tech Talk Themenwahl 
+  Ausfürliche Code Reviews 
+  Issues 
+  Merge Request 
+  Guter Abschluss auch noch mit endspurt 
+  Super Team/ kommunikation 
+  Betreuung
+ 
+  
+ 
+  
+  </details>
 
 
 ##Allgemein
 
-Keine. 
+Keine.
 
 
