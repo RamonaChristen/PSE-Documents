@@ -12,7 +12,7 @@ Die Implementation der LOG-tasks ist abgeschlossen und Änderungen aus den Revie
 | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | ![Status](https://img.shields.io/badge/Status-PR-blue) | 3 | 4 | 0 |    
 | [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario | ![Status](https://img.shields.io/badge/Status-behind_schedule-yellow) | 8 | 1 RF | 8 |
 | [#383](https://github.com/puzzle/cryptopus/issues/383) CCLI: Login command button | Renato | ![Status](https://img.shields.io/badge/Status-PR-blue) | 3 | 3 | 1 |
-| [#497](https://github.com/puzzle/cryptopus/issues/497) [Conception] Feature: Dark Mode | TBD | ![Status](https://img.shields.io/badge/Status-OK-green) | 2 | 1 | 0 |
+| [#497](https://github.com/puzzle/cryptopus/issues/497) [Conception] Feature: Dark Mode | TBD | ![Status](https://img.shields.io/badge/Status-OK-green) | 2 | 1 RF | 0 |
 
 \* Angaben in Storypoints (1 SP = ca. 4 hours)  
 Buchstaben geben die Person an.  
