@@ -45,13 +45,13 @@ Unentschuldigt: -
 ## Lessons learned
 
 details><summary>LL</summary>
-Teamarbeit 
-PR Zeit 
-funktioniert =/ fertig 
-Rails Erfahrung 
-Iterationsablauf 
-Github 
-Laufendes Projekt bearbeiten 
+  Teamarbeit 
+  PR Zeit 
+  funktioniert =/ fertig 
+  Rails Erfahrung 
+  Iterationsablauf 
+  Github 
+  Laufendes Projekt bearbeiten 
   Wer macht was
   Get Tools 
   Absprechen 
@@ -60,9 +60,7 @@ Laufendes Projekt bearbeiten
   Arbeit in Gruppen
   Schätzen des Zeitaufwandes 
   Ember 
-  Arbeit in verschiedenen Envirements
-  
- 
+  Arbeit in verschiedenen Envirement
   
   </details>
 
