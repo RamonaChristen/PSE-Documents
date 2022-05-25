@@ -2,7 +2,7 @@
 
 ## Anwesend
 Puzzle: Robin Steiner (Leitung), Pascal Simon
-PSE:Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (Protokoll), Ramona Christen
+PSE:Dario Marti, Renato Oester, Julien Gaumez, Raphael Fehr (Protokoll + KAM), Ramona Christen
 Entschuldigt: Dominik Fischli
 Unentschuldigt: -
 
