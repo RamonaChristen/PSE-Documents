@@ -4,6 +4,8 @@ Wird ein neues Feature implementiert (z. B. Logs), dann muss dieses vollständig
 Das Feature wird auf einem separaten Branch implementiert und wird bei einem Pull-Request zuerst von einem Mitarbeiter und dann vom verantwortlichen für das Projekt reviewt.
 Falls noch Änderungen vorgenommen werden müssen, werden diese gemacht, gepusht und dann wieder reviewt.
 Dieser Prozess wird so lange wiederholt, bis der Branch den Anforderungen der Reviewer entspricht. Ist das der Fall, so wird der Branch in den Master Branch gemerged.
+Die Datenbank wird mit den Migration-Tests getestet und das GUI mit den System-Tests/End-to-End-Tests. Im Cryptopus existieren keine Stress-Tests, weil das Cryptopus keine grossen
+Datenmengen hat und es auch von den Usern keinen hohen Belastungen ausgesetzt ist. 
 
 ## Unit-Tests
 Diese werden im Cryptopus im Rails-Backend implementiert. Mit den Unit-Tests wird sichergestellt, dass die einzelnen Komponenten/Funktionen unabhängig voneinander Funktionieren. Unit-Tests
