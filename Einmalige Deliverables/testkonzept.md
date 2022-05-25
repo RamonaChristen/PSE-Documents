@@ -15,7 +15,7 @@ in den Klassen befinden. Also z. B. die Authentication Klasse, die OidcClient Kl
 ## Integration-Tests
 Im Cryptopus existieren separate Test Ordner für Controller-Tests, Migration-Tests, Autorisierungstests
 und Integration-Tests. Integration-Tests testen das Zusammenspiel mehrerer Funktionen. Wird eine neue Funktion implementiert, muss also auch überprüft werden, wie diese sich im Zusammenhang mit anderen
-Funktionen verhält. Ein Integration-Test für das User Modell sieht dann so aus https://github.com/puzzle/cryptopus/blob/master/spec/integration/user_login_spec.rb .
+Funktionen verhält. Ein Integration-Test für das User Modell sieht dann [so](https://github.com/puzzle/cryptopus/blob/master/spec/integration/user_login_spec.rb) aus.
 
 ## Migration-Tests
 Diese werden im Rails-Backend implementiert und testen, ob die Datenbank-Migrationen richtig ausgeführt werden.
