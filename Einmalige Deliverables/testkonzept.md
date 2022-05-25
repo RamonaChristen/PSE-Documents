@@ -37,7 +37,7 @@ zu Prüfen, ob ein Knopf eine geordnete Liste anzeigt, wenn dieser geklickt wird
 
 ## Frontend-Tests
 Diese testen lediglich die Funktionalität im Ember-Frontend. D. h. es wird z. B. geprüft, ob ein Component den richtigen Request an das Backend schickt. Auch hier wird ein Firefox-Browser gestartet
-und die Tests werden ausgeführt, indem auf die URL http://localhost:3000/tests navigiert wird. Es handelt sich um Whitebox-Tests, da auch die interne Funktionalität der Methoden überprüft wird.
+und die Tests werden ausgeführt, indem auf die URL http://localhost:4200/tests navigiert wird. Es handelt sich um Whitebox-Tests, da auch die interne Funktionalität der Methoden überprüft wird.
 [Dieses](https://github.com/puzzle/cryptopus/blob/master/frontend/tests/integration/components/admin/users-test.js
 ) Beispiel zeigt einen Integration-Test im Frontend.
 
