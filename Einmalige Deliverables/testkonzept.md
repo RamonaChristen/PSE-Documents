@@ -1,5 +1,5 @@
 # Testkonzept von Cryptopus
-Das Cryptopus hat ein umfangreiches Testkonzept, welches Unit-Tests, System-Tests, End-to-End Tests, Frontend-Tests, Actions und einen mehrstufigen Review-Prozess beinhaltet.
+Das Cryptopus hat ein umfangreiches Testkonzept, welches Unit-Tests, System-Tests, End-to-End Tests, Frontend-Tests, Actions und einen detaillierten Review-Prozess beinhaltet.
 Wird ein neues Feature implementiert (z. B. Logs), dann muss dieses vollständig mit den oben genannten Tests abgedeckt werden.
 Das Feature wird auf einem separaten Branch implementiert und wird bei einem Pull-Request zuerst von einem Mitarbeiter und dann vom verantwortlichen für das Projekt reviewt.
 Falls noch Änderungen vorgenommen werden müssen, werden diese gemacht, gepusht und dann wieder reviewt.
@@ -12,36 +12,40 @@ Diese werden im Cryptopus im Rails-Backend implementiert. Mit den Unit-Tests wir
 sind im Cryptopus Whitebox-Tests, d.h. es wird nicht nur geschaut, ob sie den gewünschten Output liefern, sondern auch wie dieser zustande kommt. Wird z. B. eine Methode in der Methode aufgerufen,
 welche getestet wird, wird auch getestet, ob diese Methode tatsächlich aufgerufen wurde. Beispiele für Unit-Tests bzgl. eines Serializers befinden sich [hier](https://github.com/puzzle/cryptopus/blob/master/spec/unit/serializers/team_serializer_spec.rb).
 Die Unit-Tests befinden sich im Cryptopus im Ordner 'Unit' und umfassen die Authentifizierung, die Serializer, die Libraries und die Utilities. Getestet werden die einzelnen Methoden, welche sich
-in den Klassen befinden. Also z. B. die Authentication Klasse, die OidcClient Klasse und die EncryptableSerializer Klasse. Der Ordner befindet sich [hier](https://github.com/puzzle/cryptopus/tree/master/spec/unit)
+in den Klassen befinden. Also z. B. die Authentication Klasse, die OidcClient Klasse und die EncryptableSerializer Klasse. Der Ordner mit den Unit-Tests befindet sich [hier](https://github.com/puzzle/cryptopus/tree/master/spec/unit)
 
 ## Integration-Tests
 Im Cryptopus existieren separate Test Ordner für Controller-Tests, Migration-Tests, Autorisierungstests
 und Integration-Tests. Integration-Tests testen das Zusammenspiel mehrerer Funktionen. Wird eine neue Funktion implementiert, muss also auch überprüft werden, wie diese sich im Zusammenhang mit anderen
-Funktionen verhält. Ein Integration-Test für das User Modell sieht dann [so](https://github.com/puzzle/cryptopus/blob/master/spec/integration/user_login_spec.rb) aus.
+Funktionen verhält. Ein Integration-Test für das User Modell sieht dann [so](https://github.com/puzzle/cryptopus/blob/master/spec/integration/user_login_spec.rb) aus. Die Integration-Tests befinden sich
+alle im Ordner 'Integration'. Dieser befindet sich [hier](https://github.com/puzzle/cryptopus/tree/master/spec/integration).
 
 ## Migration-Tests
 Diese werden im Rails-Backend implementiert und testen, ob die Datenbank-Migrationen richtig ausgeführt werden.
 Dieses [Beispiel](https://github.com/puzzle/cryptopus/blob/master/spec/migrations/move_file_entries_to_encryptable_files_spec.rb) zeigt einen Migration-Test.
+Die Tests befinden sich im Ordner 'Migration'. Dieser befindet sich [hier](https://github.com/puzzle/cryptopus/tree/master/spec/migrations).
 
 ## Controller-Tests
 Diese werden auch im Rails-Backend implementiert und testen ausschließlich die Controller. Tests für den Session Controller sehen z.B. [so](https://github.com/puzzle/cryptopus/blob/master/spec/controllers/session_controller_spec.rb) aus.
+Die Tests befinden sich alle im Ordner 'Controller'. Dieser ist [hier](https://github.com/puzzle/cryptopus/tree/master/spec/controllers).
 
 ## Policy-Tests
 Das Cryptopus verfügt über Policies welche definiere, auf welche Models ein User zugreifen darf. Diese Policies werden ebenfalls separat getestet.
 In [diesem](https://github.com/puzzle/cryptopus/blob/master/spec/policies/encryptable_policy_spec.rb) Policy-Test werden die Policies bzgl. eines Encryptables getestet.
+Die Tests befinden sich im Ordner 'Policies'. Dieser befindet sich [hier](https://github.com/puzzle/cryptopus/tree/master/spec/policies).
 
 ## System-Tests/End-to-End Tests
 Diese werden zwar im Backend implementiert, beziehen sich aber auf die gesamte Codebase. D. h. Es wird ein Firefox-Browser gestartet, welcher sich durch das gewünschte Feature hindurch klickt.
 System-Tests/End-to-End Tests sind Blackbox-Tests, d.h. es wird nur geprüft, ob die gewünschte Funktionalität existiert aber nicht, was genau in den einzelnen Methoden passiert. Ein Beispiel wäre
 zu Prüfen, ob ein Knopf eine geordnete Liste anzeigt, wenn dieser geklickt wird. Mit Rake werden alle Tests ausgeführt. Ein einzelnes Test-File kann mit rspec 'path/filename.spec' ausgeführt werden.
 [Dieser](https://github.com/puzzle/cryptopus/blob/master/spec/system/create_user_system_spec.rb
-) System-Test überprüft, ob ein User mit dem UI erstellt werden kann.
+) System-Test überprüft, ob ein User mit dem UI erstellt werden kann. Die System-Tests befinden sich im ordner 'System'. Dieser ist [hier](https://github.com/puzzle/cryptopus/tree/master/spec/system).
 
 ## Frontend-Tests
 Diese testen lediglich die Funktionalität im Ember-Frontend. D. h. es wird z. B. geprüft, ob ein Component den richtigen Request an das Backend schickt. Auch hier wird ein Firefox-Browser gestartet
 und die Tests werden ausgeführt, indem auf die URL http://localhost:4200/tests navigiert wird. Es handelt sich um Whitebox-Tests, da auch die interne Funktionalität der Methoden überprüft wird.
 [Dieses](https://github.com/puzzle/cryptopus/blob/master/frontend/tests/integration/components/admin/users-test.js
-) Beispiel zeigt einen Integration-Test im Frontend.
+) Beispiel zeigt einen Integration-Test im Frontend. Die Tests umfassen auch hier Unit, Integration und zusätzlich noch Helper-Tests. Die Test befinden sich alle [hier](https://github.com/puzzle/cryptopus/tree/master/frontend/tests).
 
 ## Rubocop
 Um eine standardisierte Formatierung sicherzustellen, wird Rubocop im gesamten Rails-Projekt verwendet. Die Regeln sind bei Spezialfällen angepasst, entsprechen aber generell den Standard Regeln, welche von Rubocop gegeben sind.
