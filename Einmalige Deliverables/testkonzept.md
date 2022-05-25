@@ -58,4 +58,8 @@ Er erstellt dann einen System-Spec, welcher diesem Ablauf entspricht.
 Zusätzlich bekommt jeder Entwickler von Cryptopus, vor einem neuen Release, 30 Minuten Zeit um sich durch die Seite zu klicken. Dabei versuchen sie mithilfe von Edge-Cases Fehler zu erzeugen. Alle gefundenen Fehler oder sonstige Kritikpunkte der Entwickler werden dann noch vor dem Release behoben.
 
 ## Testresultate
-
+Die Backend-Tests und Rubocop werden in der Rails Konsole ausgeführt und der Output dieser beiden sieht folgendermassen aus:
+![Rails](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.14.06)
+![Rubocop](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.14.44)
+Die Frontend-Tests werden im Chrome-Browser ausgeführt und der Output sieht so aus:
+![Ember](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.15.37)
