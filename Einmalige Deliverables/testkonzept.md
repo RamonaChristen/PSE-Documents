@@ -19,8 +19,7 @@ Funktionen verhält. Ein Integration-Test für das User Modell sieht dann [so](h
 
 ## Migration-Tests
 Diese werden im Rails-Backend implementiert und testen, ob die Datenbank-Migrationen richtig ausgeführt werden.
-Dieses [Beispiel](https://github.com/puzzle/cryptopus/blob/master/spec/migrations/move_file_entries_to_encryptable_files_spec.rb
-) zeigt einen Migration-Test.
+Dieses [Beispiel](https://github.com/puzzle/cryptopus/blob/master/spec/migrations/move_file_entries_to_encryptable_files_spec.rb) zeigt einen Migration-Test.
 
 ## Controller-Tests
 Diese werden auch im Rails-Backend implementiert und testen ausschließlich die Controller. Tests für den Session Controller sehen z.B. [so](https://github.com/puzzle/cryptopus/blob/master/spec/controllers/session_controller_spec.rb) aus.
@@ -57,3 +56,6 @@ getestet, welche daran Arbeiten. Wird z. B. im Frontend ein neuer Knopf implemen
 ob der Knopf richtig angezeigt wird. Danach überprüft er, ob die Liste richtig dargestellt wird und ob die User in der gewünschten Reihenfolge angezeigt werden.
 Er erstellt dann einen System-Spec, welcher diesem Ablauf entspricht.
 Zusätzlich bekommt jeder Entwickler von Cryptopus, vor einem neuen Release, 30 Minuten Zeit um sich durch die Seite zu klicken. Dabei versuchen sie mithilfe von Edge-Cases Fehler zu erzeugen. Alle gefundenen Fehler oder sonstige Kritikpunkte der Entwickler werden dann noch vor dem Release behoben.
+
+## Testresultate
+
