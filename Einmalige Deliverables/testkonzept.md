@@ -59,7 +59,7 @@ Zusätzlich bekommt jeder Entwickler von Cryptopus, vor einem neuen Release, 30 
 
 ## Testresultate
 Die Backend-Tests und Rubocop werden in der Rails Konsole ausgeführt und der Output dieser beiden sieht folgendermassen aus:
-![Rails](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.14.06)
-![Rubocop](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.14.44)
+![Rails](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.14.06.jpg)
+![Rubocop](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.14.44.jpg)
 Die Frontend-Tests werden im Chrome-Browser ausgeführt und der Output sieht so aus:
-![Ember](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.15.37)
+![Ember](Users/dariomarti/Desktop/Bildschirmfoto 2022-05-25 um 10.15.37.jpg)
