@@ -18,16 +18,15 @@
 | 25.4. - 1.5  | [#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access | Dario, Ramona, TBD | In Review -> Moved to next Sprint | |1.5.2022|
 |              | [#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log | Raphael, Julien   | Moved to next Sprint | | 1.5.2022|
 |              | [#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | Moved to next Sprint | | 1.5.2022|
-|               | [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario, TBD  | Moved to next Sprint | | 03.5.2022|
+|               | [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario  | Moved to next Sprint | | 03.5.2022|
 || Präsentation: Technologie und Architektur | Renato | Done | | 27.4.2022
 |2.5. - 8.5.| <b>3.5. Ende Iteration 3<b>| | | | |
-|9.5. - 15.5.|[#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access -> Add System Specs | Dario, Ramona | In Review |  |20.5.2022 |
-|          |[#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log  |Raphael, Julien | In Progress | |15.5.2022 |
-|          |[#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | In Progress | | 15.5.2022|
-|          | [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario, TBD  | In Progress ||15.5.2022|
-|          | Präsentation: Qualitätssicherung, Testing, Usability | Dario |TO DO | | 11.5.2022|
-| 16.5. - 22.5.| [#383](https://github.com/puzzle/cryptopus/issues/383) CCLI: Login Command Button| TBD | TO DO | |24.5.2022 |
+|9.5. - 15.5.|[#564](https://github.com/puzzle/cryptopus/issues/564) LOG: Encryptable read access -> Add System Specs | Dario, Ramona | Done |  |20.5.2022 |
+|          |[#568](https://github.com/puzzle/cryptopus/issues/568) LOG: Personal activity log  |Raphael, Julien | Done | |15.5.2022 |
+|          |[#572](https://github.com/puzzle/cryptopus/issues/572) LOG: Recent credentials on dashboard | Renato | Done | | 15.5.2022|
+|          | [#598](https://github.com/puzzle/cryptopus/issues/598) TECH: Add support for postgresql and pg search | Dario, Ramona  | An Puzzle abgegeben ||15.5.2022|
+|          | Präsentation: Qualitätssicherung, Testing, Usability | Dario | Done | | 11.5.2022|
+| 16.5. - 22.5.| [#383](https://github.com/puzzle/cryptopus/issues/383) CCLI: Login Command Button| Renato | Done | |24.5.2022 |
 |          | [#497](https://github.com/puzzle/cryptopus/issues/497) Feature: Dark Mode|Raphael | Done | | 24.5.2022 |
-  |        | Dokumentation fertig schreiben | TBD | TO DO | | 18.5.2022
 |23.5. - 29.5.| <b>24.5. Ende letzte Iteration<b>| | | | |
-|             |Präsentation: Schlussdemo | Raphael | TO DO |  |25.5.2022|
+|             |Präsentation: Schlussdemo | Raphael | Done|  |25.5.2022|
